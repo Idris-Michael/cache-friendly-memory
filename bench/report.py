@@ -20,9 +20,8 @@ RUNS = [
 
 
 def main() -> None:
-    print(
-        "| strategy | distiller | cost (Sonnet prices) | cached | last prompt | median prefill | distills | recall |"
-    )
+    cols = ["strategy", "distiller", "cost (Sonnet prices)", "cached", "last prompt", "median prefill"]
+    print("| " + " | ".join([*cols, "distills", "recall"]) + " |")
     print("|---|---|---|---|---|---|---|---|")
     for file, distiller in RUNS:
         path = HERE / file
