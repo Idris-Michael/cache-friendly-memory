@@ -43,13 +43,14 @@ What this says:
    same cost model with no model calls. Full history is cheapest up to 80 turns; by 160 turns
    elephant & goldfish (batch 12) is cheaper, and at 640 turns it costs $3.42 against $12.26.
 3. **The distiller decides whether memory works at all.** With a 7B local model doing the
-   distilling, the first note held all eight facts; later merges overwrote them with recent
-   chatter. The final note also stated that no duplicate purchases were found (the chat said
-   30% were double counted) and gave the client another client's reporting day. With Claude Haiku
-   distilling, the same strategies kept 7 or 8 facts. Both runs' notes are in `bench/results_*.json`.
+   distilling (batch 12), the first note held the 5 facts it had seen; the next merge dropped the
+   property ID, the contact and the fee, and the final note held 1 of 8. Along the way it gave the
+   client another client's reporting day, and the final note says no duplicate purchases were found
+   when the chat said 30% were double counted. With Claude Haiku distilling, the same strategies
+   kept 7 or 8 facts. Every note from both runs is in `bench/results_*.json`.
 4. **Batch size is the cache lever.** The hub's setting (batch 4) distils every second turn, and
-   every distillation breaks the cached prefix. Batch 12 halves the breaks and was cheaper and more
-   accurate with either distiller.
+   every distillation breaks the cached prefix. Batch 12 cut distillations from 18 to 7 and was
+   cheaper and more accurate with either distiller.
 
 ## What I changed because of it
 
