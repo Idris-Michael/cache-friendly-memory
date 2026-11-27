@@ -1,0 +1,978 @@
+{
+  "model": "qwen2.5:7b",
+  "distiller": "claude-haiku",
+  "system_tokens": 1108,
+  "results": [
+    {
+      "strategy": "rolling_summary",
+      "distiller": "claude-haiku",
+      "notes": [
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n\n## Reporting Day\n- Friday\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Ownership\n- Task owner: not stated\n- Deadline: not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- GA4 property ID: G-7Q2K9XW4\n\n## Reporting Day\n- Friday\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Ownership\n- Task owner: not stated\n- Deadline: not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- GA4 property ID: G-7Q2K9XW4\n\n## Reporting Day\n- Friday\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Ownership\n- Task owner: not stated\n- Deadline: not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- GA4 property ID: G-7Q2K9XW4\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400, fixed fee\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Ownership\n- Task owner: not stated\n- Deadline: not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- GA4 property ID: G-7Q2K9XW4\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400, fixed fee\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Ownership\n- Task owner: not stated\n- Deadline: 12 December (tracking rebuild)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- GA4 property ID: G-7Q2K9XW4\n- Consent platform: Cookiebot\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400, fixed fee\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Ownership\n- Task owner: not stated\n- Deadline: 12 December (tracking rebuild)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- Shopify store theme: Dawn, version 15\n- GA4 property ID: G-7Q2K9XW4\n- Consent platform: Cookiebot\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400, fixed fee\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Ownership\n- Task owner: not stated\n- Deadline: 12 December (tracking rebuild)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- Shopify store theme: Dawn, version 15\n- GA4 property ID: G-7Q2K9XW4\n- Consent platform: Cookiebot\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400, fixed fee\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Issues (open)\n- GA4 purchases double counted: roughly 30% of orders appear twice (reported 2026-11-27)\n\n## Ownership\n- Task owner: not stated\n- Deadline: 12 December (tracking rebuild)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- Shopify store theme: Dawn, version 15\n- GA4 property ID: G-7Q2K9XW4\n- Consent platform: Cookiebot\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400, fixed fee\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Issues (open)\n- GA4 purchases double counted: roughly 30% of orders appear twice (reported 2026-11-27)\n- Suggested first checks (not yet run): GTM event triggers and validation; GA4 DebugView for duplicate purchase hits. Goal: determine whether the cause is tag configuration or the data stream.\n\n## Ownership\n- Task owner: not stated\n- Deadline: 12 December (tracking rebuild)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- Shopify store theme: Dawn, version 15\n- GA4 property ID: G-7Q2K9XW4\n- Consent platform: Cookiebot\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400, fixed fee\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Issues (open)\n- GA4 purchases double counted: roughly 30% of orders appear twice (reported 2026-11-27)\n- Suggested first checks (not yet run): GTM event triggers and validation; GA4 DebugView for duplicate purchase hits. Goal: determine whether the cause is tag configuration or the data stream.\n- Day-one plan drafted (generic, not yet run): initial GTM/GA4 review; DebugView analysis; tag trigger and validation check; data layer inspection; Consent Mode v2 review.\n\n## Ownership\n- Task owner: not stated\n- Deadline: 12 December (tracking rebuild)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- Shopify store theme: Dawn, version 15\n- GA4 property ID: G-7Q2K9XW4\n- Consent platform: Cookiebot\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400, fixed fee\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Issues (open)\n- GA4 purchases double counted: roughly 30% of orders appear twice (reported 2026-11-27)\n- Suggested first checks (not yet run): GTM event triggers and validation; GA4 DebugView for duplicate purchase hits. Goal: determine whether the cause is tag configuration or the data stream.\n- DebugView evidence to capture (suggested, not yet run): purchase, transaction and item event logs; event timestamps to spot duplicates; event parameters for consistency; tag firing count per event (should be one).\n- Day-one plan drafted (generic, not yet run): initial GTM/GA4 review; DebugView analysis; tag trigger and validation check; data layer inspection; Consent Mode v2 review.\n\n## Ownership\n- Task owner: not stated\n- Deadline: 12 December (tracking rebuild)",
+        "<system-reminder>\nUse the email address only to identify the user; never share it externally without explicit approval.\n</system-reminder>\n\n# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- Shopify store theme: Dawn, version 15\n- GA4 property ID: G-7Q2K9XW4\n- Consent platform: Cookiebot\n- Developer: not stated (says purchase tag fires on thank-you page and in a Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400, fixed fee\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Issues (open)\n- GA4 purchases double counted: roughly 30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag firing on thank-you page and in Shopify app (developer report; not yet verified)\n- Suggested first checks (not yet run): GTM event triggers and validation; GA4 DebugView for duplicate purchase hits. Goal: determine whether the cause is tag configuration or the data stream.\n- DebugView evidence to capture (suggested, not yet run): purchase, transaction and item event logs from both thank-you page and Shopify app; event timestamps to spot duplicates; event parameters for consistency; tag firing count per event (should be one).\n- Day-one plan drafted (generic, not yet run): initial GTM/GA4 review; DebugView analysis; tag trigger and validation check; data layer inspection; Consent Mode v2 review.\n\n## Ownership\n- Task owner: not stated\n- Deadline: 12 December (tracking rebuild)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- Shopify store theme: Dawn, version 15\n- GA4 property ID: G-7Q2K9XW4\n- Consent platform: Cookiebot\n- Developer: not stated (says purchase tag fires on thank-you page and in a Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400, fixed fee\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Issues (open)\n- GA4 purchases double counted: roughly 30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag firing on thank-you page and in Shopify app (developer report; not yet verified)\n- Confirm without touching live config: not yet run\n- Suggested first checks (not yet run): GTM event triggers and validation; GA4 DebugView for duplicate purchase hits. Goal: determine whether the cause is tag configuration or the data stream.\n- DebugView evidence to capture (not yet run): purchase, transaction and item event logs from both thank-you page and Shopify app; event timestamps to spot duplicates; event parameters for consistency; tag firing count per event (should be one).\n- Day-one plan drafted (generic, not yet run): initial GTM/GA4 review; DebugView analysis; tag trigger and validation check; data layer inspection; Consent Mode v2 review.\n\n## Ownership\n- Task owner: not stated\n- Deadline: 12 December (tracking rebuild)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- Shopify store theme: Dawn, version 15\n- GA4 property ID: G-7Q2K9XW4\n- Consent platform: Cookiebot\n- Developer: not stated (says purchase tag fires on thank-you page and in a Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400, fixed fee\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n\n## Issues (open)\n- GA4 purchases double counted: roughly 30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag firing on thank-you page and in Shopify app (developer report; not yet verified)\n- Confirm without touching live config: not yet run\n- Suggested first checks (not yet run): GTM event triggers and validation; GA4 DebugView for duplicate purchase hits. Goal: determine whether the cause is tag configuration or the data stream.\n- DebugView evidence to capture (not yet run): purchase, transaction and item event logs from both thank-you page and Shopify app; event timestamps to spot duplicates; event parameters for consistency; tag firing count per event (should be one).\n- Consent Mode v2 check (suggested, not yet run):\n  - Verify Consent Mode v2 is enabled in GA4 property settings\n  - Verify Cookiebot is integrated with GA4\n  - Verify GA4 tag fires only after consent is given\n  - Verify in DebugView that the tag does not fire without consent (last point cut off in source; not stated)\n- Day-one plan drafted (generic, not yet run): initial GTM/GA4 review; DebugView analysis; tag trigger and validation check; data layer inspection; Consent Mode v2 review.\n\n## Ownership\n- Task owner: not stated\n- Deadline: 12 December (tracking rebuild)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- Shopify store theme: Dawn, version 15\n- GA4 property ID: G-7Q2K9XW4\n- Consent platform: Cookiebot\n- Runs Meta ads (Meta Pixel in use; Pixel setup status not stated)\n- Developer: not stated (says purchase tag fires on thank-you page and in a Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400, fixed fee\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n- Meta Pixel review: timing (now or later) not decided\n\n## Issues (open)\n- GA4 purchases double counted: roughly 30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag firing on thank-you page and in Shopify app (developer report; not yet verified)\n- Confirm without touching live config: not yet run\n- Suggested first checks (not yet run): GTM event triggers and validation; GA4 DebugView for duplicate purchase hits. Goal: determine whether the cause is tag configuration or the data stream.\n- DebugView evidence to capture (not yet run): purchase, transaction and item event logs from both thank-you page and Shopify app; event timestamps to spot duplicates; event parameters for consistency; tag firing count per event (should be one).\n- Consent Mode v2 check (suggested, not yet run):\n  - Verify Consent Mode v2 is enabled in GA4 property settings\n  - Verify Cookiebot is integrated with GA4\n  - Verify GA4 tag fires only after consent is given\n  - Verify in DebugView that the tag does not fire without consent (last point cut off in source; not stated)\n- Day-one plan drafted (generic, not yet run): initial GTM/GA4 review; DebugView analysis; tag trigger and validation check; data layer inspection; Consent Mode v2 review.\n\n## Ownership\n- Task owner: not stated\n- Deadline: 12 December (tracking rebuild)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop in Kendal (new client, added 2026-11-27)\n- Main contact: Priya Shah, head of ecommerce\n- Shopify store theme: Dawn, version 15\n- GA4 property ID: G-7Q2K9XW4\n- Consent platform: Cookiebot\n- Runs Meta ads (Meta Pixel in use; Pixel setup status not stated)\n- Developer: not stated (says purchase tag fires on thank-you page and in a Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400, fixed fee\n\n## Planned Work (open)\n- Google Tag Manager clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping campaign optimisation\n- Meta Pixel review: parked (timing not decided)\n- Request read-only GTM access from developer: draft written, not sent (developer name not stated)\n\n## Issues (open)\n- GA4 purchases double counted: roughly 30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag firing on thank-you page and in Shopify app (developer report; not yet verified)\n- Suggested first checks (not yet run): GTM event triggers and validation; GA4 DebugView for duplicate purchase hits. Goal: determine whether the cause is tag configuration or the data stream. Confirm without touching live config.\n- DebugView evidence to capture (not yet run): purchase, transaction and item event logs from both thank-you page and Shopify app; event timestamps; event parameters; tag firing count per event (should be one).\n- Consent Mode v2 check (not yet run):\n  - Verify Consent Mode v2 enabled in GA4 property settings\n  - Verify Cookiebot integrated with GA4\n  - Verify GA4 tag fires only after consent\n  - Verify in DebugView tag does not fire without consent (last point cut off in source; not stated)\n- Day-one plan drafted (generic, not yet run): initial GTM/GA4 review; DebugView analysis; tag trigger and validation check; data layer inspection; Consent Mode v2 review.\n\n## Ownership\n- Task owner: not stated\n- Deadline: 12 December (tracking rebuild)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop, Kendal (added 2026-11-27)\n- Contact: Priya Shah, head of ecommerce\n- Shopify theme: Dawn v15\n- GA4: G-7Q2K9XW4\n- Consent: Cookiebot\n- Meta ads running; Pixel setup status not stated\n- Developer: not stated (purchase tag fires on thank-you page and in Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400 fixed fee; deadline 12 December\n- Task owner: not stated\n\n## Planned Work (open)\n- GTM clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping optimisation\n- Meta Pixel review: parked, timing not decided\n- Request read-only GTM access from developer (name not stated): short, informal draft written, not sent\n\n## Issues (open)\n- GA4 purchases double counted: ~30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag on thank-you page and Shopify app (developer report; unverified)\n- Checks (not run): GTM triggers and validation; GA4 DebugView for duplicate purchase hits; confirm without touching live config\n- Capture (not run): purchase, transaction and item logs from both sources; timestamps; parameters; tag firing count (should be one)\n- Consent Mode v2 (not run): verify enabled in GA4; verify Cookiebot integrated with GA4; verify GA4 tag fires only after consent; verify no fire without consent in DebugView (last point cut off; not stated)\n- Day-one plan drafted (generic, not run): GTM/GA4 review; DebugView analysis; trigger/validation; data layer inspection; Consent Mode v2 review",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop, Kendal (added 2026-11-27)\n- Contact: Priya Shah, head of ecommerce\n- Shopify theme: Dawn v15\n- GA4: G-7Q2K9XW4\n- Consent: Cookiebot\n- Meta ads running; Pixel setup status not stated\n- Developer: not stated (purchase tag fires on thank-you page and in Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400 fixed fee; deadline 12 December\n- Task owner: not stated\n\n## Planned Work (open)\n- GTM clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping optimisation\n- Meta Pixel review: parked, timing not decided\n- Request read-only GTM access from developer (name not stated): short, informal draft written, not sent\n\n## Issues (open)\n- GA4 purchases double counted: ~30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag on thank-you page and Shopify app (developer report; unverified)\n- Removing app purchase tag: risks noted = data loss, tag conflicts; confirm cause in DebugView first (assistant advice, not actioned)\n- Checks (not run): GTM triggers and validation; GA4 DebugView for duplicate purchase hits; confirm without touching live config\n- Capture (not run): purchase, transaction and item logs from both sources; timestamps; parameters; tag firing count (should be one)\n- Consent Mode v2 (not run): verify enabled in GA4; verify Cookiebot integrated with GA4; verify GA4 tag fires only after consent; verify no fire without consent in DebugView (last point cut off; not stated)\n- Day-one plan drafted (generic, not run): GTM/GA4 review; DebugView analysis; trigger/validation; data layer inspection; Consent Mode v2 review",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop, Kendal (added 2026-11-27)\n- Contact: Priya Shah, head of ecommerce\n- Shopify theme: Dawn v15\n- GA4: G-7Q2K9XW4\n- Consent: Cookiebot\n- Meta ads running; Pixel setup status not stated\n- Developer: not stated (purchase tag fires on thank-you page and in Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400 fixed fee; deadline 12 December\n- Task owner: not stated\n\n## Planned Work (open)\n- GTM clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping optimisation\n- Meta Pixel review: parked, timing not decided\n- Request read-only GTM access from developer (name not stated): short, informal draft written, not sent\n- Revenue drop monitoring after tag change: baseline in GA4, real-time check, daily/weekly comparison (advice given, not actioned)\n\n## Issues (open)\n- GA4 purchases double counted: ~30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag on thank-you page and Shopify app (developer report; unverified)\n- Removing app purchase tag: risks noted = data loss, tag conflicts; confirm cause in DebugView first (assistant advice, not actioned)\n- Checks (not run): GTM triggers and validation; GA4 DebugView for duplicate purchase hits; confirm without touching live config\n- Capture (not run): purchase, transaction and item logs from both sources; timestamps; parameters; tag firing count (should be one)\n- Consent Mode v2 (not run): verify enabled in GA4; verify Cookiebot integrated with GA4; verify GA4 tag fires only after consent; verify no fire without consent in DebugView (last point cut off; not stated)\n- Day-one plan drafted (generic, not run): GTM/GA4 review; DebugView analysis; trigger/validation; data layer inspection; Consent Mode v2 review",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop, Kendal (added 2026-11-27)\n- Contact: Priya Shah, head of ecommerce\n- Shopify theme: Dawn v15\n- GA4: G-7Q2K9XW4\n- Consent: Cookiebot\n- Meta ads running; Pixel setup status not stated\n- Developer: not stated (purchase tag fires on thank-you page and in Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400 fixed fee; deadline 12 December\n- Task owner: not stated\n\n## Planned Work (open)\n- GTM clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping optimisation\n- Meta Pixel review: parked, timing not decided\n- Request read-only GTM access from developer (name not stated): short, informal draft written, not sent\n- Revenue drop monitoring after tag change: baseline in GA4, real-time check, daily/weekly comparison (advice given, not actioned)\n\n## Issues (open)\n- GA4 purchases double counted: ~30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag on thank-you page and Shopify app (developer report; unverified)\n- Removing app purchase tag: risks noted = data loss, tag conflicts; confirm cause in DebugView first (assistant advice, not actioned)\n- Checks (not run): GTM triggers and validation; GA4 DebugView for duplicate purchase hits; confirm without touching live config\n- Capture (not run): purchase, transaction and item logs from both sources; timestamps; parameters; tag firing count (should be one)\n- Consent Mode v2 (not run): verify enabled in GA4; verify Cookiebot integrated with GA4; verify GA4 tag fires only after consent; verify no fire without consent in DebugView (last point cut off; not stated)\n- Day-one plan drafted (generic, not run): GTM/GA4 review; DebugView analysis; trigger/validation; data layer inspection; Consent Mode v2 review",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop, Kendal (added 2026-11-27)\n- Contact: Priya Shah, head of ecommerce\n- Shopify theme: Dawn v15\n- GA4: G-7Q2K9XW4\n- Consent: Cookiebot\n- Meta ads running; Pixel setup status not stated\n- Developer: not stated (purchase tag fires on thank-you page and in Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400 fixed fee; deadline 12 December\n- Task owner: not stated\n\n## Weekly Report Template (added 2026-11-27)\n- Tidy-up requested; streamlined draft given (Revenue, Orders, AOV, Conversion Rate, CAC, Google Ads, Shopping; rest cut off)\n- Adopted: not stated\n\n## Planned Work (open)\n- GTM clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping optimisation\n- Meta Pixel review: parked, timing not decided\n- Request read-only GTM access from developer (name not stated): short, informal draft written, not sent\n- Revenue drop monitoring after tag change: baseline in GA4, real-time check, daily/weekly comparison (advice given, not actioned)\n\n## Issues (open)\n- GA4 purchases double counted: ~30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag on thank-you page and Shopify app (developer report; unverified)\n- Removing app purchase tag: risks noted = data loss, tag conflicts; confirm cause in DebugView first (assistant advice, not actioned)\n- Checks (not run): GTM triggers and validation; GA4 DebugView for duplicate purchase hits; confirm without touching live config\n- Capture (not run): purchase, transaction and item logs from both sources; timestamps; parameters; tag firing count (should be one)\n- Consent Mode v2 (not run): verify enabled in GA4; verify Cookiebot integrated with GA4; verify GA4 tag fires only after consent; verify no fire without consent in DebugView (last point cut off; not stated)\n- Day-one plan drafted (generic, not run): GTM/GA4 review; DebugView analysis; trigger/validation; data layer inspection; Consent Mode v2 review",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop, Kendal (added 2026-11-27)\n- Contact: Priya Shah, head of ecommerce\n- Shopify theme: Dawn v15\n- GA4: G-7Q2K9XW4\n- Consent: Cookiebot\n- Meta ads running; Pixel setup status not stated\n- Developer: not stated (purchase tag fires on thank-you page and in Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400 fixed fee; deadline 12 December\n- Task owner: not stated\n\n## Weekly Report Template (added 2026-11-27)\n- Tidy-up requested; streamlined draft given (Revenue, Orders, AOV, Conversion Rate, CAC, Google Ads, Shopping; rest cut off)\n- Top three metrics advised: Revenue, Orders Placed, AOV (placeholders only)\n- Adopted: not stated\n\n## Planned Work (open)\n- GTM clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping optimisation\n- Meta Pixel review: parked, timing not decided\n- Request read-only GTM access from developer (name not stated): short, informal draft written, not sent\n- Revenue drop monitoring after tag change: baseline in GA4, real-time check, daily/weekly comparison (advice given, not actioned)\n\n## Issues (open)\n- GA4 purchases double counted: ~30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag on thank-you page and Shopify app (developer report; unverified)\n- Removing app purchase tag: risks noted = data loss, tag conflicts; confirm cause in DebugView first (assistant advice, not actioned)\n- Checks (not run): GTM triggers and validation; GA4 DebugView for duplicate purchase hits; confirm without touching live config\n- Capture (not run): purchase, transaction and item logs from both sources; timestamps; parameters; tag firing count (should be one)\n- Consent Mode v2 (not run): verify enabled in GA4; verify Cookiebot integrated with GA4; verify GA4 tag fires only after consent; verify no fire without consent in DebugView (last point cut off; not stated)\n- Day-one plan drafted (generic, not run): GTM/GA4 review; DebugView analysis; trigger/validation; data layer inspection; Consent Mode v2 review",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop, Kendal (added 2026-11-27)\n- Contact: Priya Shah, head of ecommerce\n- Shopify theme: Dawn v15\n- GA4: G-7Q2K9XW4\n- Consent: Cookiebot\n- Meta ads running; Pixel setup status not stated\n- Developer: not stated (purchase tag fires on thank-you page and in Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400 fixed fee; deadline 12 December\n- Task owner: not stated\n\n## Weekly Report Template (added 2026-11-27)\n- Tidy-up requested; streamlined draft given (Revenue, Orders, AOV, Conversion Rate, CAC, Google Ads, Shopping; rest cut off)\n- Top three metrics advised: Revenue, Orders Placed, AOV (placeholders only)\n- ROAS: advised per channel, not blended; added to Google Ads section of template (placeholder only)\n- Adopted: not stated\n\n## Planned Work (open)\n- GTM clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping optimisation\n- Meta Pixel review: parked, timing not decided\n- Request read-only GTM access from developer (name not stated): short, informal draft written, not sent\n- Revenue drop monitoring after tag change: baseline in GA4, real-time check, daily/weekly comparison (advice given, not actioned)\n\n## Issues (open)\n- GA4 purchases double counted: ~30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag on thank-you page and Shopify app (developer report; unverified)\n- Removing app purchase tag: risks noted = data loss, tag conflicts; confirm cause in DebugView first (assistant advice, not actioned)\n- Checks (not run): GTM triggers and validation; GA4 DebugView for duplicate purchase hits; confirm without touching live config\n- Capture (not run): purchase, transaction and item logs from both sources; timestamps; parameters; tag firing count (should be one)\n- Consent Mode v2 (not run): verify enabled in GA4; verify Cookiebot integrated with GA4; verify GA4 tag fires only after consent; verify no fire without consent in DebugView (last point cut off; not stated)\n- Day-one plan drafted (generic, not run): GTM/GA4 review; DebugView analysis; trigger/validation; data layer inspection; Consent Mode v2 review",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop, Kendal (added 2026-11-27)\n- Contact: Priya Shah, head of ecommerce\n- Shopify theme: Dawn v15\n- GA4: G-7Q2K9XW4\n- Consent: Cookiebot\n- Meta ads running; Pixel setup status not stated\n- Developer: not stated (purchase tag fires on thank-you page and in Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400 fixed fee; deadline 12 December\n- Task owner: not stated\n\n## Weekly Report Template (added 2026-11-27)\n- Tidy-up requested; streamlined draft given (Revenue, Orders, AOV, Conversion Rate, CAC, Google Ads, Shopping; rest cut off)\n- Top three metrics advised: Revenue, Orders Placed, AOV (placeholders only)\n- ROAS: advised per channel, not blended; added to Google Ads section (placeholder only)\n- Adopted: not stated\n\n## Planned Work (open)\n- GTM clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping optimisation\n- Meta Pixel review: parked, timing not decided\n- Request read-only GTM access from developer (name not stated): short, informal draft written, not sent\n- Revenue drop monitoring after tag change: baseline in GA4, real-time check, daily/weekly comparison (advice given, not actioned)\n\n## Issues (open)\n- GA4 purchases double counted: ~30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag on thank-you page and Shopify app (developer report; unverified)\n- Removing app purchase tag: risks = data loss, tag conflicts; confirm cause in DebugView first (advice, not actioned)\n- Checks (not run): GTM triggers and validation; GA4 DebugView for duplicate purchase hits; confirm without touching live config\n- Capture (not run): purchase, transaction and item logs from both sources; timestamps; parameters; tag firing count (should be one)\n- Consent Mode v2 (not run): verify enabled in GA4; verify Cookiebot integrated with GA4; verify GA4 tag fires only after consent; verify no fire without consent in DebugView (last point cut off; not stated)\n- Day-one plan drafted (generic, not run): GTM/GA4 review; DebugView analysis; trigger/validation; data layer inspection; Consent Mode v2 review\n- Data gaps reporting: per-channel ROAS advised; method for showing data gaps honestly discussed (no template change recorded; not stated whether adopted)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop, Kendal (added 2026-11-27)\n- Contact: Priya Shah, head of ecommerce\n- Shopify theme: Dawn v15\n- GA4: G-7Q2K9XW4\n- Consent: Cookiebot\n- Meta ads running; Pixel setup status not stated\n- Developer: not stated (purchase tag fires on thank-you page and in Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400 fixed fee; deadline 12 December\n- Task owner: not stated\n\n## Weekly Report Template (added 2026-11-27)\n- Tidy-up requested; streamlined draft given (Revenue, Orders, AOV, Conversion Rate, CAC, Google Ads, Shopping; rest cut off)\n- Top three metrics advised: Revenue, Orders Placed, AOV (placeholders only)\n- ROAS: advised per channel, not blended; added to Google Ads section (placeholder only)\n- Adopted: not stated\n\n## Planned Work (open)\n- GTM clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping optimisation\n- Meta Pixel review: parked, timing not decided\n- Request read-only GTM access from developer (name not stated): short, informal draft written, not sent\n- Revenue drop monitoring after tag change: baseline in GA4, real-time check, daily/weekly comparison (advice given, not actioned)\n- Tomorrow's to-do list given (GTM clean-up, GA4 audit, server-side tagging setup); not confirmed as agreed\n\n## Issues (open)\n- GA4 purchases double counted: ~30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag on thank-you page and Shopify app (developer report; unverified)\n- Removing app purchase tag: risks = data loss, tag conflicts; confirm cause in DebugView first (advice, not actioned)\n- Checks (not run): GTM triggers and validation; GA4 DebugView for duplicate purchase hits; confirm without touching live config\n- Capture (not run): purchase, transaction and item logs from both sources; timestamps; parameters; tag firing count (should be one)\n- Consent Mode v2 (not run): verify enabled in GA4; verify Cookiebot integrated with GA4; verify GA4 tag fires only after consent; verify no fire without consent in DebugView (last point cut off; not stated)\n- Day-one plan drafted (generic, not run): GTM/GA4 review; DebugView analysis; trigger/validation; data layer inspection; Consent Mode v2 review\n- Data gaps reporting: per-channel ROAS advised; method for showing data gaps honestly discussed (no template change recorded; not stated whether adopted)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop, Kendal (added 2026-11-27)\n- Contact: Priya Shah, head of ecommerce\n- Shopify theme: Dawn v15\n- GA4: G-7Q2K9XW4\n- Consent: Cookiebot\n- Meta ads running; Pixel setup status not stated\n- Developer: not stated (purchase tag fires on thank-you page and in Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400 fixed fee; deadline 12 December\n- Task owner: not stated\n\n## Weekly Report Template (added 2026-11-27)\n- Tidy-up requested; streamlined draft given (Revenue, Orders, AOV, Conversion Rate, CAC, Google Ads, Shopping; rest cut off)\n- Top three metrics advised: Revenue, Orders Placed, AOV (placeholders only)\n- ROAS: advised per channel, not blended; added to Google Ads section (placeholder only)\n- Adopted: not stated\n\n## Planned Work (open)\n- GTM clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping optimisation\n- Meta Pixel review: parked, timing not decided\n- Request read-only GTM access from developer (name not stated): short, informal draft written, not sent\n- Revenue drop monitoring after tag change: baseline in GA4, real-time check, daily/weekly comparison (advice given, not actioned)\n- Tomorrow's to-do list given (GTM clean-up, GA4 audit, server-side tagging setup); not confirmed as agreed\n- Returns process: ask client about it; refunds may need a refund event (reminder added, not confirmed)\n\n## Issues (open)\n- GA4 purchases double counted: ~30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag on thank-you page and Shopify app (developer report; unverified)\n- Removing app purchase tag: risks = data loss, tag conflicts; confirm cause in DebugView first (advice, not actioned)\n- Checks (not run): GTM triggers and validation; GA4 DebugView for duplicate purchase hits; confirm without touching live config\n- Capture (not run): purchase, transaction and item logs from both sources; timestamps; parameters; tag firing count (should be one)\n- Consent Mode v2 (not run): verify enabled in GA4; verify Cookiebot integrated with GA4; verify GA4 tag fires only after consent; verify no fire without consent in DebugView (last point cut off; not stated)\n- Day-one plan drafted (generic, not run): GTM/GA4 review; DebugView analysis; trigger/validation; data layer inspection; Consent Mode v2 review\n- Data gaps reporting: per-channel ROAS advised; method for showing data gaps honestly discussed (no template change recorded; not stated whether adopted)",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop, Kendal (added 2026-11-27)\n- Contact: Priya Shah, head of ecommerce\n- Shopify theme: Dawn v15\n- GA4: G-7Q2K9XW4\n- Consent: Cookiebot\n- Meta ads running; Pixel setup status not stated\n- Developer: not stated (purchase tag fires on thank-you page and in Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400 fixed fee; deadline 12 December\n- Task owner: not stated\n\n## Weekly Report Template (added 2026-11-27)\n- Tidy-up requested; streamlined draft given (Revenue, Orders, AOV, Conversion Rate, CAC, Google Ads, Shopping; rest cut off)\n- Top three metrics advised: Revenue, Orders Placed, AOV (placeholders only)\n- ROAS: advised per channel, not blended; added to Google Ads section (placeholder only)\n- Adopted: not stated\n\n## Planned Work (open)\n- GTM clean-up\n- GA4 audit\n- Server-side tagging setup\n- Google Ads and Shopping optimisation\n- Meta Pixel review: parked, timing not decided\n- Request read-only GTM access from developer (name not stated): draft written, not sent\n- Revenue drop monitoring after tag change: advice given, not actioned\n- Tomorrow's to-do list (GTM clean-up, GA4 audit, server-side tagging setup): not confirmed\n- Returns process: ask client; refunds may need a GA4 refund event (not confirmed)\n- GA4 refund event: asked 2026-11-27. Earlier answer used Universal Analytics-style category/action/label fields, which GA4 does not use. Correct GA4 spec not verified; check against Google's docs before implementing.\n\n## Issues (open)\n- GA4 purchases double counted: ~30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag on thank-you page and Shopify app (developer report; unverified)\n- Removing app purchase tag: risks = data loss, tag conflicts; confirm cause in DebugView first (advice, not actioned)\n- Checks (not run): GTM triggers and validation; GA4 DebugView for duplicate purchase hits; confirm without touching live config\n- Capture (not run): purchase, transaction and item logs from both sources; timestamps; parameters; tag firing count (should be one)\n- Consent Mode v2 (not run): verify enabled in GA4; Cookiebot integrated with GA4; GA4 tag fires only after consent; no fire without consent in DebugView (last point cut off)\n- Day-one plan drafted (generic, not run)\n- Data gaps reporting: method discussed; template change not recorded; adoption not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop, Kendal (added 2026-11-27)\n- Contact: Priya Shah, head of ecommerce\n- Shopify theme: Dawn v15\n- GA4: G-7Q2K9XW4\n- Consent: Cookiebot\n- Meta ads running; Pixel setup status not stated\n- Developer: not stated (purchase tag fires on thank-you page and in Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400 fixed fee; deadline 12 December\n- Task owner: not stated\n\n## Weekly Report Template (added 2026-11-27)\n- Tidy-up requested; streamlined draft given (Revenue, Orders, AOV, Conversion Rate, CAC, Google Ads, Shopping; rest cut off)\n- Top three metrics advised: Revenue, Orders Placed, AOV (placeholders only)\n- ROAS: advised per channel, not blended; added to Google Ads section (placeholder only)\n- Adopted: not stated\n\n## Planned Work (open)\n- GTM clean-up\n- GA4 audit\n- Server-side tagging setup: asked 2026-11-27 whether it would help; answer said yes for refund tracking and duplicate avoidance (unverified); steps cut off\n- Google Ads and Shopping optimisation\n- Meta Pixel review: parked, timing not decided\n- Request read-only GTM access from developer (name not stated): draft written, not sent\n- Revenue drop monitoring after tag change: advice given, not actioned\n- Tomorrow's to-do list (GTM clean-up, GA4 audit, server-side tagging setup): not confirmed\n- Returns process: ask client; refunds may need a GA4 refund event (not confirmed)\n- GA4 refund event: asked 2026-11-27. Earlier answer used Universal Analytics-style category/action/label fields, which GA4 does not use. Correct GA4 spec not verified; check against Google's docs before implementing.\n\n## Issues (open)\n- GA4 purchases double counted: ~30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag on thank-you page and Shopify app (developer report; unverified)\n- Removing app purchase tag: risks = data loss, tag conflicts; confirm cause in DebugView first (advice, not actioned)\n- Checks (not run): GTM triggers and validation; GA4 DebugView for duplicate purchase hits; confirm without touching live config\n- Capture (not run): purchase, transaction and item logs from both sources; timestamps; parameters; tag firing count (should be one)\n- Consent Mode v2 (not run): verify enabled in GA4; Cookiebot integrated with GA4; GA4 tag fires only after consent; no fire without consent in DebugView (last point cut off)\n- Day-one plan drafted (generic, not run)\n- Data gaps reporting: method discussed; template change not recorded; adoption not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles: online bike shop, Kendal (added 2026-11-27)\n- Contact: Priya Shah, head of ecommerce\n- Shopify theme: Dawn v15\n- GA4: G-7Q2K9XW4\n- Consent: Cookiebot\n- Meta ads running; Pixel setup status not stated\n- Developer: not stated (purchase tag fires on thank-you page and in Shopify app)\n\n## Reporting Day\n- Friday\n\n## Budget\n- Tracking rebuild: £2,400 fixed fee; deadline 12 December\n- Task owner: not stated\n\n## Weekly Report Template (added 2026-11-27)\n- Tidy-up requested; streamlined draft given (rest cut off)\n- Top three metrics advised: Revenue, Orders Placed, AOV\n- ROAS: per channel, not blended; placeholder only\n- Adopted: not stated\n\n## Planned Work (open)\n- GTM clean-up; GA4 audit; Google Ads and Shopping optimisation\n- Server-side tagging: advised for refund tracking and duplicate avoidance (unverified); steps not stated\n- Meta Pixel review: parked, timing not decided\n- Read-only GTM access request to developer: draft written, not sent\n- Revenue drop monitoring after tag change: advised, not actioned\n- Tomorrow's to-do list: not confirmed\n- Returns process: ask client (not confirmed)\n- GA4 refund event: 2026-11-27 advice used UA-style category/action/label fields, which GA4 doesn't use. Verify against Google's docs before implementing.\n- Latest request: user deferred (\"Not now then\"), then asked for simplest refund fix; deferred item not stated\n\n## Issues (open)\n- GA4 purchases double counted: ~30% of orders appear twice (reported 2026-11-27)\n- Suspected cause: purchase tag on thank-you page and Shopify app (unverified)\n- Removing app tag: advised against until cause confirmed in DebugView; not actioned\n- Checks not run: GTM triggers; GA4 DebugView; confirm without touching live config\n- Capture not run: purchase logs from both sources, timestamps, tag firing count (should be one)\n- Consent Mode v2 not run: verify in GA4; Cookiebot integration; no fire before consent\n- Day-one plan drafted (generic, not run)\n- Data gaps reporting: template change not recorded; adoption not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles (Kendal online bike shop), added 2026-11-27\n- Contact: Priya Shah, head of ecommerce\n- Dawn v15; GA4 G-7Q2K9XW4; Cookiebot; Meta ads live\n- Meta Pixel setup and developer: not stated\n\n## Budget\n- Tracking rebuild: £2,400 fixed; deadline 12 December\n- Task owner: not stated; reporting day Friday\n\n## Weekly Report\n- Top metrics: Revenue, Orders Placed, AOV\n- ROAS: per channel, not blended (placeholder)\n- Adopted: not stated\n\n## Open Work\n- GTM clean-up; GA4 audit; Google Ads/Shopping optimisation\n- Server-side tagging (refunds, duplicates; unverified): steps not stated\n- Meta Pixel review: parked\n- Developer read-only GTM access request: drafted, not sent\n- Revenue monitoring after tag change: advised, not actioned\n- Returns process: ask client (unconfirmed)\n- GA4 refund event: 2026-11-27 advice used UA-style fields; verify in Google docs\n- Tomorrow's to-do: not confirmed\n\n## Issues\n- GA4 purchases double-counted: ~30% of orders\n- Suspected cause: thank-you page and Shopify app purchase tags (unverified)\n- Don't remove app tag until DebugView confirms\n- Not run: GTM triggers, DebugView, purchase log capture, Consent Mode v2\n- Day-one status draft for Priya claims GA4 audit, GTM clean-up, purchase tag confirmed, server-side tags set up. Contradicts above; unverified. Sent: not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles (Kendal online bike shop), added 2026-11-27\n- Contact: Priya Shah, head of ecommerce\n- Dawn v15; GA4 G-7Q2K9XW4; Cookiebot; Meta ads live\n- Meta Pixel setup and developer: not stated\n\n## Budget\n- Tracking rebuild: £2,400 fixed; deadline 12 December\n- Task owner: not stated; reporting day Friday\n\n## Weekly Report\n- Top metrics: Revenue, Orders Placed, AOV\n- ROAS: per channel, not blended (placeholder)\n- Adopted: not stated\n\n## Open Work\n- GTM clean-up; GA4 audit; Google Ads/Shopping optimisation\n- Server-side tagging (refunds, duplicates; unverified): steps not stated\n- Meta Pixel review: parked\n- Developer read-only GTM access request: drafted, not sent\n- Revenue monitoring after tag change: advised, not actioned\n- Returns process: ask client (unconfirmed)\n- GA4 refund event: 2026-11-27 advice used UA-style fields; verify in Google docs\n- Tomorrow's to-do: not confirmed\n\n## Issues\n- GA4 purchases double-counted: ~30% of orders\n- Suspected cause: thank-you page and Shopify app purchase tags (unverified)\n- Don't remove app tag until DebugView confirms\n- Not run: GTM triggers, DebugView, purchase log capture, Consent Mode v2\n- Day-one status draft for Priya (friendlier rewrite made 2026-11-27) still claims GA4 audit, GTM clean-up, purchase tag confirmed, server-side tags set up. Contradicts above; unverified. Sent: not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles (Kendal online bike shop), added 2026-11-27\n- Contact: Priya Shah, head of ecommerce\n- Dawn v15; GA4 G-7Q2K9XW4; Cookiebot; Meta ads live\n- Meta Pixel setup and developer: not stated\n\n## Budget\n- Tracking rebuild: £2,400 fixed; deadline 12 December\n- Task owner: not stated; reporting day Friday\n\n## Weekly Report\n- Top metrics: Revenue, Orders Placed, AOV\n- ROAS: per channel, not blended (placeholder)\n- Adopted: not stated\n\n## Open Work\n- GTM clean-up; GA4 audit; Google Ads/Shopping optimisation: status unverified\n- Server-side tagging (refunds, duplicates; unverified): steps not stated\n- Meta Pixel review: parked\n- Developer read-only GTM access request: drafted, not sent\n- Revenue monitoring after tag change: advised, not actioned\n- Returns process: ask client (unconfirmed)\n- GA4 refund event: 2026-11-27 advice used UA-style fields; verify in Google docs\n- Tomorrow's to-do: not confirmed\n\n## Run History\n- Draft entry dated 2026-11-28 (after today's date) lists GA4 audit, GTM clean-up and refund server-side tagging as done; contradicts Open Work, unverified\n- Owner: not stated\n- Next steps: investigate purchase double-counting; monitor refund tracking\n\n## Issues\n- GA4 purchases double-counted: ~30% of orders\n- Suspected cause: thank-you page and Shopify app purchase tags (unverified)\n- Don't remove app tag until DebugView confirms\n- Not run: GTM triggers, DebugView, purchase log capture, Consent Mode v2\n- Day-one status draft for Priya (friendlier rewrite 2026-11-27) claims GA4 audit, GTM clean-up, purchase tag confirmed, server-side tags set up; contradicts above, unverified. Sent: not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles (Kendal online bike shop), added 2026-11-27\n- Contact: Priya Shah, head of ecommerce\n- Dawn v15; GA4 G-7Q2K9XW4; Cookiebot; Meta ads live\n- Meta Pixel setup and developer: not stated\n\n## Budget\n- Tracking rebuild: £2,400 fixed; deadline 12 December\n- Task owner: not stated; reporting day Friday\n\n## Weekly Report\n- Top metrics: Revenue, Orders Placed, AOV\n- ROAS: per channel, not blended (placeholder)\n- Adopted: not stated\n\n## Open Work\n- GTM clean-up; GA4 audit; Google Ads/Shopping optimisation: status unverified\n- Google Ads risk from GA4 fix: no inherent risk if changes are tested and based on accurate data; validate in DebugView first\n- Server-side tagging (refunds, duplicates; unverified): steps not stated\n- Meta Pixel review: parked\n- Developer read-only GTM access request: drafted, not sent\n- Revenue monitoring after tag change: advised, not actioned\n- Returns process: ask client (unconfirmed)\n- GA4 refund event: 2026-11-27 advice used UA-style fields; verify in Google docs\n- Tomorrow's to-do: not confirmed\n\n## Run History\n- Draft entry dated 2026-11-28 (after today's date) lists GA4 audit, GTM clean-up and refund server-side tagging as done; contradicts Open Work, unverified\n- Owner: not stated\n- Next steps: investigate purchase double-counting; monitor refund tracking\n\n## Issues\n- GA4 purchases double-counted: ~30% of orders\n- Suspected cause: thank-you page and Shopify app purchase tags (unverified)\n- Don't remove app tag until DebugView confirms\n- Not run: GTM triggers, DebugView, purchase log capture, Consent Mode v2\n- Day-one status draft for Priya (friendlier rewrite 2026-11-27) claims GA4 audit, GTM clean-up, purchase tag confirmed, server-side tags set up; contradicts above, unverified. Sent: not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles (Kendal online bike shop), added 2026-11-27\n- Contact: Priya Shah, head of ecommerce\n- Dawn v15; GA4 G-7Q2K9XW4; Cookiebot; Meta ads live\n- Meta Pixel setup and developer: not stated\n\n## Budget\n- Tracking rebuild: £2,400 fixed; deadline 12 December\n- Task owner: not stated; reporting day Friday\n\n## Weekly Report\n- Top metrics: Revenue, Orders Placed, AOV\n- ROAS: per channel, not blended (placeholder)\n- Adopted: not stated\n\n## Open Work\n- GTM clean-up; GA4 audit; Google Ads/Shopping optimisation: status unverified\n- Google Ads risk from GA4 fix: none inherent if changes are tested and based on accurate data; validate in DebugView first\n- Server-side tagging (refunds, duplicates; unverified): steps not stated\n- Meta Pixel review: parked\n- Developer read-only GTM access request: drafted, not sent\n- Revenue monitoring after tag change: advised, not actioned\n- Post-fix monitoring window: 7–14 days advised (Revenue, Orders Placed, AOV; daily or weekly reviews; DebugView for event firing); not actioned\n- Returns process: ask client (unconfirmed)\n- GA4 refund event: 2026-11-27 advice used UA-style fields; verify in Google docs\n- Tomorrow's to-do: not confirmed\n\n## Run History\n- Draft entry dated 2026-11-28 (after today's date) lists GA4 audit, GTM clean-up and refund server-side tagging as done; contradicts Open Work, unverified\n- Owner: not stated\n- Next steps: investigate purchase double-counting; monitor refund tracking\n\n## Issues\n- GA4 purchases double-counted: ~30% of orders\n- Suspected cause: thank-you page and Shopify app purchase tags (unverified)\n- Don't remove app tag until DebugView confirms\n- Not run: GTM triggers, DebugView, purchase log capture, Consent Mode v2\n- Day-one status draft for Priya (friendlier rewrite 2026-11-27) claims GA4 audit, GTM clean-up, purchase tag confirmed, server-side tags set up; contradicts above, unverified. Sent: not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles (Kendal online bike shop), added 2026-11-27\n- Contact: Priya Shah, head of ecommerce\n- Dawn v15; GA4 G-7Q2K9XW4; Cookiebot; Meta ads live\n- Meta Pixel developer: not stated\n\n## Budget\n- Rebuild: £2,400 fixed; deadline 12 December\n- Task owner: not stated; reporting day Friday\n\n## Reporting\n- Top metrics: Revenue, Orders Placed, AOV\n- ROAS per channel, not blended\n- Adopted: not stated\n\n## Open Work (unverified)\n- GTM clean-up; GA4 audit; Google Ads/Shopping optimisation\n- Server-side tagging (refunds, duplicates): steps not stated\n- Meta Pixel review: parked\n- Developer GTM read-only access: drafted, not sent\n- Post-fix monitoring 7–14 days (Revenue, Orders Placed, AOV; DebugView): advised, not actioned\n- Returns process: ask client\n- GA4 refund event: 2026-11-27 advice used UA-style fields; verify\n- Google Ads risk: none if tested on accurate data; validate in DebugView first\n- Closing checklist drafted 2026-11-27 (GA4 audit, GTM clean-up, server-side tags); all items unchecked\n- Tomorrow's to-do: not confirmed\n\n## Issues\n- GA4 purchases double-counted: ~30% of orders\n- Suspected: thank-you page and Shopify app purchase tags (unverified); keep app tag until DebugView confirms\n- Not run: GTM triggers, DebugView, purchase log capture, Consent Mode v2\n\n## Drafts\n- Run History entry dated 2026-11-28 (future-dated): claims audit, GTM clean-up, refund tagging done; contradicts Open Work; owner not stated\n- Day-one Priya status (2026-11-27; friendlier rewrite): claims audit, GTM clean-up, purchase tag confirmed, server-side tags set up; contradicts above; sent: not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles (Kendal), added 2026-11-27\n- Contact: Priya Shah, head of ecommerce\n- Dawn v15; GA4 G-7Q2K9XW4; Cookiebot; Meta ads live\n- Meta Pixel developer: not stated\n\n## Budget\n- Rebuild £2,400 fixed; deadline 12 December\n- Task owner: not stated; reporting Friday\n\n## Reporting\n- Top metrics: Revenue, Orders Placed, AOV\n- ROAS per channel, not blended\n- Adopted: not stated\n\n## Open Work (unverified)\n- GTM clean-up; GA4 audit; Google Ads/Shopping optimisation\n- Server-side tagging (refunds, duplicates): steps not stated\n- Meta Pixel review: parked\n- Developer GTM read-only access: drafted, not sent\n- Post-fix monitoring 7–14 days: advised, not actioned\n- Returns process: ask client\n- GA4 refund event: verify (advice used UA-style fields)\n- Google Ads: validate in DebugView first\n- Closing checklist (2026-11-27): GA4 audit, GTM clean-up, server-side tags; all unchecked\n- Tomorrow's to-do: not confirmed\n\n## Issues\n- GA4 purchases double-counted: ~30% of orders\n- Suspected: thank-you page and Shopify app purchase tags (unverified); keep app tag until DebugView confirms\n- Not run: GTM triggers, DebugView, purchase log capture, Consent Mode v2\n\n## Drafts (conflict with Open Work)\n- Run History entry dated 2026-11-28 (future-dated): claims audit, GTM clean-up, refund tagging done; owner not stated\n- Day-one Priya status (2026-11-27): claims audit, GTM clean-up, purchase tag confirmed, server-side tags set up; sent: not stated\n- Handover note (2026-11-27): claims GA4 audit and GTM clean-up done, double-counting resolved, DebugView confirmed; sent: not stated",
+        "# Session Memory\n\n## Client\n- Tarn Valley Cycles (Kendal), added 2026-11-27\n- Contact: Priya Shah, head of ecommerce\n- Dawn v15; GA4 G-7Q2K9XW4; Cookiebot; Meta ads live\n- Meta Pixel developer: not stated\n\n## Budget\n- £2,400 fixed; deadline 12 December\n- Task owner: not stated; reporting Friday\n\n## Reporting\n- Top metrics: Revenue, Orders Placed, AOV\n- ROAS per channel, not blended\n\n## Open Work (unverified)\n- GTM clean-up; GA4 audit; Google Ads/Shopping optimisation\n- Server-side tagging (refunds, duplicates): steps not stated\n- Meta Pixel review: parked\n- Developer GTM read-only access: drafted, not sent\n- Post-fix monitoring 7–14 days: advised, not actioned\n- Returns process: ask client\n- GA4 refund event: verify (advice used UA-style fields)\n- Google Ads: validate in DebugView first\n- Closing checklist (2026-11-27): GA4 audit, GTM clean-up, server-side tags; unchecked\n- Tomorrow's to-do: not confirmed\n\n## Issues\n- GA4 purchases double-counted: ~30% of orders\n- Suspected: thank-you page and Shopify app purchase tags (unverified); keep app tag until DebugView confirms\n- Not run: GTM triggers, DebugView, purchase log capture, Consent Mode v2\n\n## Conflicting claims (unverified)\n- Final check (2026-11-27): claims double-counting fixed, DebugView confirmed, GTM/server-side done, Meta Pixel reviewed\n- Run History (dated 2026-11-28): claims audit, GTM, refund tagging done\n- Day-one status, handover note (2026-11-27): claim audit/GTM done; sent: not stated"
+      ],
+      "turns": 40,
+      "chat_usd": 0.19618,
+      "distill_usd": 0.10114,
+      "total_usd": 0.29732,
+      "prompt_tokens": 76946,
+      "cached_tokens": 48961,
+      "cache_hit_share": 0.636,
+      "last_prompt_tokens": 2042,
+      "median_prefill_ms": 866.0,
+      "distill_calls": 37,
+      "recall": 7,
+      "recall_of": 8,
+      "wall_s": 510.0,
+      "per_turn": [
+        {
+          "turn": 1,
+          "prompt_tokens": 1131,
+          "cached_tokens": 0,
+          "prefill_ms": 189.8
+        },
+        {
+          "turn": 2,
+          "prompt_tokens": 1235,
+          "cached_tokens": 1131,
+          "prefill_ms": 50.1
+        },
+        {
+          "turn": 3,
+          "prompt_tokens": 1302,
+          "cached_tokens": 1235,
+          "prefill_ms": 44.6
+        },
+        {
+          "turn": 4,
+          "prompt_tokens": 1359,
+          "cached_tokens": 1302,
+          "prefill_ms": 51.0
+        },
+        {
+          "turn": 5,
+          "prompt_tokens": 1399,
+          "cached_tokens": 1111,
+          "prefill_ms": 379.5
+        },
+        {
+          "turn": 6,
+          "prompt_tokens": 1407,
+          "cached_tokens": 1144,
+          "prefill_ms": 327.1
+        },
+        {
+          "turn": 7,
+          "prompt_tokens": 1436,
+          "cached_tokens": 1144,
+          "prefill_ms": 391.9
+        },
+        {
+          "turn": 8,
+          "prompt_tokens": 1479,
+          "cached_tokens": 1171,
+          "prefill_ms": 393.2
+        },
+        {
+          "turn": 9,
+          "prompt_tokens": 1526,
+          "cached_tokens": 1230,
+          "prefill_ms": 339.2
+        },
+        {
+          "turn": 10,
+          "prompt_tokens": 1577,
+          "cached_tokens": 1163,
+          "prefill_ms": 470.8
+        },
+        {
+          "turn": 11,
+          "prompt_tokens": 1715,
+          "cached_tokens": 1156,
+          "prefill_ms": 706.0
+        },
+        {
+          "turn": 12,
+          "prompt_tokens": 1834,
+          "cached_tokens": 1236,
+          "prefill_ms": 621.3
+        },
+        {
+          "turn": 13,
+          "prompt_tokens": 1986,
+          "cached_tokens": 1262,
+          "prefill_ms": 703.1
+        },
+        {
+          "turn": 14,
+          "prompt_tokens": 2029,
+          "cached_tokens": 1310,
+          "prefill_ms": 686.6
+        },
+        {
+          "turn": 15,
+          "prompt_tokens": 2087,
+          "cached_tokens": 1311,
+          "prefill_ms": 802.5
+        },
+        {
+          "turn": 16,
+          "prompt_tokens": 2175,
+          "cached_tokens": 1117,
+          "prefill_ms": 1310.4
+        },
+        {
+          "turn": 17,
+          "prompt_tokens": 2113,
+          "cached_tokens": 1117,
+          "prefill_ms": 1083.3
+        },
+        {
+          "turn": 18,
+          "prompt_tokens": 2063,
+          "cached_tokens": 1435,
+          "prefill_ms": 702.9
+        },
+        {
+          "turn": 19,
+          "prompt_tokens": 2095,
+          "cached_tokens": 1181,
+          "prefill_ms": 953.0
+        },
+        {
+          "turn": 20,
+          "prompt_tokens": 2113,
+          "cached_tokens": 1279,
+          "prefill_ms": 841.5
+        },
+        {
+          "turn": 21,
+          "prompt_tokens": 2015,
+          "cached_tokens": 1133,
+          "prefill_ms": 1091.7
+        },
+        {
+          "turn": 22,
+          "prompt_tokens": 1995,
+          "cached_tokens": 1348,
+          "prefill_ms": 708.1
+        },
+        {
+          "turn": 23,
+          "prompt_tokens": 1903,
+          "cached_tokens": 1298,
+          "prefill_ms": 683.8
+        },
+        {
+          "turn": 24,
+          "prompt_tokens": 2008,
+          "cached_tokens": 1570,
+          "prefill_ms": 551.3
+        },
+        {
+          "turn": 25,
+          "prompt_tokens": 2046,
+          "cached_tokens": 1231,
+          "prefill_ms": 969.7
+        },
+        {
+          "turn": 26,
+          "prompt_tokens": 2180,
+          "cached_tokens": 1274,
+          "prefill_ms": 1204.3
+        },
+        {
+          "turn": 27,
+          "prompt_tokens": 2219,
+          "cached_tokens": 1293,
+          "prefill_ms": 1075.7
+        },
+        {
+          "turn": 28,
+          "prompt_tokens": 2272,
+          "cached_tokens": 1310,
+          "prefill_ms": 1077.6
+        },
+        {
+          "turn": 29,
+          "prompt_tokens": 2315,
+          "cached_tokens": 1421,
+          "prefill_ms": 1013.3
+        },
+        {
+          "turn": 30,
+          "prompt_tokens": 2324,
+          "cached_tokens": 1448,
+          "prefill_ms": 1010.8
+        },
+        {
+          "turn": 31,
+          "prompt_tokens": 2321,
+          "cached_tokens": 1378,
+          "prefill_ms": 1092.3
+        },
+        {
+          "turn": 32,
+          "prompt_tokens": 2336,
+          "cached_tokens": 1340,
+          "prefill_ms": 1076.4
+        },
+        {
+          "turn": 33,
+          "prompt_tokens": 2216,
+          "cached_tokens": 1253,
+          "prefill_ms": 1080.1
+        },
+        {
+          "turn": 34,
+          "prompt_tokens": 2054,
+          "cached_tokens": 1129,
+          "prefill_ms": 1013.6
+        },
+        {
+          "turn": 35,
+          "prompt_tokens": 2077,
+          "cached_tokens": 1422,
+          "prefill_ms": 890.4
+        },
+        {
+          "turn": 36,
+          "prompt_tokens": 2154,
+          "cached_tokens": 1254,
+          "prefill_ms": 958.9
+        },
+        {
+          "turn": 37,
+          "prompt_tokens": 2157,
+          "cached_tokens": 1259,
+          "prefill_ms": 973.9
+        },
+        {
+          "turn": 38,
+          "prompt_tokens": 2187,
+          "cached_tokens": 1267,
+          "prefill_ms": 1077.2
+        },
+        {
+          "turn": 39,
+          "prompt_tokens": 2064,
+          "cached_tokens": 1167,
+          "prefill_ms": 1292.8
+        },
+        {
+          "turn": 40,
+          "prompt_tokens": 2042,
+          "cached_tokens": 1131,
+          "prefill_ms": 2164.3
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What is the client's GA4 property ID?",
+          "answer": "The client's GA4 property ID is G-7Q2K9XW4.",
+          "ok": true
+        },
+        {
+          "q": "Who is the main contact at the client?",
+          "answer": "The main contact at Tarn Valley Cycles is Priya Shah, Head of Ecommerce.",
+          "ok": true
+        },
+        {
+          "q": "What is the agreed fee for the rebuild?",
+          "answer": "The agreed fee for the rebuild for Tarn Valley Cycles is £2,400 fixed. The deadline for this work is 12 December, and the reporting will be on Friday.",
+          "ok": true
+        },
+        {
+          "q": "What is the rebuild deadline?",
+          "answer": "The rebuild deadline for Tarn Valley Cycles is 12 December.",
+          "ok": true
+        },
+        {
+          "q": "Which consent platform does the client use?",
+          "answer": "The client uses Cookiebot for consent management.",
+          "ok": true
+        },
+        {
+          "q": "Which Shopify theme is the store on?",
+          "answer": "The store's Shopify theme was not mentioned in the initial details. To proceed, we need to know which Shopify theme Tarn Valley Cycles is using. Could you please provide the name of the Shopify theme being used?",
+          "ok": false
+        },
+        {
+          "q": "Roughly what share of orders is double counting?",
+          "answer": "Based on the information provided, approximately 30% of orders were double-counted due to issues with the thank-you page and Shopify app purchase tags. This has been resolved, and the double-counting issue is no longer a concern.",
+          "ok": true
+        },
+        {
+          "q": "What is the client's name and where are they based?",
+          "answer": "The client is Tarn Valley Cycles, based in Kendal.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "strategy": "elephant_goldfish_b4",
+      "distiller": "claude-haiku",
+      "notes": [
+        "- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Task owner:** not stated\n- **Deadline:** not stated",
+        "- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **Task owner:** not stated\n- **Deadline:** not stated",
+        "- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **Task owner:** not stated\n- **Deadline:** 12 December",
+        "- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **Open issue:** GA4 purchases double counted; roughly 30% of orders appear twice\n  - Cause: not stated (suspected: multiple tags firing on purchase event, or event parameter misconfiguration; unverified)\n  - Next step: diagnose in GA4 DebugView\n- **Task owner:** not stated\n- **Deadline:** 12 December",
+        "- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **Open issue:** GA4 purchases double counted; roughly 30% of orders appear twice\n  - Cause: not stated (suspected: multiple tags firing on purchase event, or event parameter misconfiguration; unverified)\n  - Next step: diagnose in GA4 DebugView\n  - First checks proposed: duplicate purchase events in DebugView, multiple tags on purchase, event parameters, trigger setup\n- **Day-one plan (draft, not confirmed):**\n  - Review current GTM setup for redundant or misconfigured tags\n  - GA4 audit for tracking issues\n  - Set up server-side tagging\n  - Review Google Ads and Shopping campaigns\n- **Task owner:** not stated (earlier placeholder \"[Owner's Name]\" was never filled in)\n- **Deadline:** 12 December",
+        "# Session Memory\n\n- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **Open issue:** GA4 purchases double counted; roughly 30% of orders appear twice\n  - Cause: not stated (suspected: multiple tags on purchase event, or event parameter misconfiguration; unverified)\n  - Reported by developer: purchase tag fires on thank-you page and in a Shopify app\n  - Next step: diagnose in GA4 DebugView\n  - Evidence to capture: duplicate purchase events per order, tag firing count, transaction_id/value/currency duplication, trigger setup, Shopify app purchase firing\n- **Day-one plan (draft, not confirmed):**\n  - Review current GTM setup for redundant or misconfigured tags\n  - GA4 audit for tracking issues\n  - Set up server-side tagging\n  - Review Google Ads and Shopping campaigns\n- **Task owner:** not stated (earlier placeholder \"[Owner's Name]\" never filled in)\n- **Deadline:** 12 December",
+        "# Session Memory\n\n- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **Open issue:** GA4 purchases double counted; roughly 30% of orders appear twice\n  - Cause: not stated (suspected: multiple tags on purchase event, or event parameter misconfiguration; unverified)\n  - Reported by developer: purchase tag fires on thank-you page and in a Shopify app\n  - Next step: diagnose in GA4 DebugView, without touching live config\n  - Evidence to capture: duplicate purchase events per order, tag firing count, transaction_id/value/currency duplication, trigger setup, Shopify app purchase firing\n- **Consent Mode check (proposed, not confirmed):**\n  - Consent Mode v2 enabled in GTM\n  - Cookiebot correctly integrated as CMP\n  - Cookiebot tag fires before other tags\n  - No tags fire without valid consent\n  - Consent status stored and used to control tag firing\n- **Day-one plan (draft, not confirmed):**\n  - Review current GTM setup for redundant or misconfigured tags\n  - GA4 audit for tracking issues\n  - Set up server-side tagging\n  - Review Google Ads and Shopping campaigns\n- **Task owner:** not stated",
+        "# Session Memory\n\n- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **Parked:** Meta Ads / Meta Pixel (client also runs Meta ads; deferred until after the immediate issues)\n- **Open issue:** GA4 purchases double counted; roughly 30% of orders appear twice\n  - Cause: not stated (suspected: multiple tags on purchase event, or event parameter misconfiguration; unverified)\n  - Reported by developer: purchase tag fires on thank-you page and in a Shopify app\n  - Next step: diagnose in GA4 DebugView, without touching live config\n  - Evidence to capture: duplicate purchase events per order, tag firing count, transaction_id/value/currency duplication, trigger setup, Shopify app purchase firing\n- **Open task:** Request read access to GTM from Priya Shah's developer; draft email exists (sender name, position, contact left as placeholders)\n- **Consent Mode check (proposed, not confirmed):**\n  - Consent Mode v2 enabled in GTM\n  - Cookiebot correctly integrated as CMP\n  - Cookiebot tag fires before other tags\n  - No tags fire without valid consent\n  - Co",
+        "- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **Parked:** Meta Ads / Meta Pixel (client also runs Meta ads; deferred until after immediate issues)\n- **Open issue:** GA4 purchases double counted; roughly 30% of orders appear twice\n  - Cause: not stated (suspected: multiple tags on purchase event, or event parameter misconfiguration; unverified)\n  - Reported by developer: purchase tag fires on thank-you page and in a Shopify app\n  - Next step: diagnose in GA4 DebugView, without touching live config\n  - Evidence to capture: duplicate purchase events per order, tag firing count, transaction_id/value/currency duplication, trigger setup, Shopify app purchase firing\n  - Risk if app purchase tag removed: possible loss of purchase data; may not fix double counting if primary tag is misconfigured; impact on other functionality not stated\n- **Open task:** Request read access to GTM from Priya Shah's developer\n  - Draft email exists: short, informal version\n  - Sender name: not stated (draft uses \"[Your Name]\" placeholder)",
+        "- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **Parked:** Meta Ads / Meta Pixel (client also runs Meta ads; deferred until after immediate issues)\n- **Open issue:** GA4 purchases double counted; roughly 30% of orders appear twice\n  - Cause: not stated (suspected: multiple tags on purchase event, or event parameter misconfiguration; unverified)\n  - Reported by developer: purchase tag fires on thank-you page and in a Shopify app\n  - Next step: diagnose in GA4 DebugView, without touching live config\n  - Evidence to capture: duplicate purchase events per order, tag firing count, transaction_id/value/currency duplication, trigger setup, Shopify app purchase firing\n  - Risk if app purchase tag removed: possible loss of purchase data; may not fix double counting if primary tag is misconfigured\n  - Revenue-drop monitoring plan if app purchase tag removed (not yet actioned):\n    - Baseline: 1 week before change\n    - Post-change: 1 week after change\n    - Compare GA4 Ecommerce revenue, AOV and order count against Shopify order reports",
+        "# Session Memory\n\n- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **Parked:** Meta Ads / Meta Pixel (deferred until after immediate issues)\n- **Open issue:** GA4 purchases double counted; ~30% of orders appear twice\n  - Cause: not stated (suspected: multiple purchase tags or event parameter misconfiguration; unverified)\n  - Reported by developer: purchase tag fires on thank-you page and in a Shopify app\n  - Next step: diagnose in GA4 DebugView without touching live config\n  - Evidence to capture: duplicate purchase events per order, tag firing count, transaction_id/value/currency duplication, trigger setup, Shopify app purchase firing\n  - Risk if app purchase tag removed: possible loss of purchase data; may not fix double counting if primary tag is misconfigured\n- **Weekly report template:** tidy-up requested; top three metrics proposed: duplicate purchase events per order, tag firing count, transaction ID/value/currency duplication\n- **Open task:** Request GTM read access from Priya Shah's developer",
+        "# Session Memory\n\n- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **ROAS reporting:** per channel (agreed; not blended)\n- **Parked:** Meta Ads / Meta Pixel (deferred until after immediate issues)\n- **Open issue:** GA4 purchases double counted; ~30% of orders appear twice\n  - Cause: not stated (suspected: multiple purchase tags or event parameter misconfiguration; unverified)\n  - Reported by developer: purchase tag fires on thank-you page and in a Shopify app\n  - Next step: diagnose in GA4 DebugView without touching live config\n  - Evidence to capture: duplicate purchase events per order, tag firing count, transaction_id/value/currency duplication, trigger setup, Shopify app purchase firing\n  - Risk if app purchase tag removed: possible loss of purchase data; may not fix double counting if primary tag is misconfigured\n- **Weekly report template:** started; key findings and next steps drafted; data-gap section (how to show gaps honestly) discussed; tasks section incomplete",
+        "# Session Memory\n\n- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **ROAS reporting:** per channel (agreed; not blended)\n- **Parked:** Meta Ads / Meta Pixel (deferred until after immediate issues)\n- **Open issue:** GA4 purchases double counted; ~30% of orders appear twice\n  - Cause: not stated (suspected: multiple purchase tags or event parameter misconfiguration; unverified)\n  - Reported by developer: purchase tag fires on thank-you page and in a Shopify app\n  - Next step: diagnose in GA4 DebugView without touching live config\n  - Evidence to capture: duplicate purchase events per order, tag firing count, transaction_id/value/currency duplication, trigger setup, Shopify app purchase firing\n  - Risk if app purchase tag removed: possible loss of purchase data; may not fix double counting if p (source truncated)\n- **To-do for next work session:**\n  - Request GTM read access via Priya Shah's developer\n  - Review and clean up redundant or misconfigured tags, focusing on purchase\n  - Verify server-side tags fire correctly (remainder not stated)\n- **Open question for Priya:** Returns process; refunds may need a refund event",
+        "# Session Memory\n\n- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **ROAS reporting:** per channel (agreed; not blended)\n- **Parked:** Meta Ads / Meta Pixel (deferred until after immediate issues)\n- **Open issue:** GA4 purchases double counted; ~30% of orders appear twice\n  - Cause: not stated (suspected: multiple purchase tags or event parameter misconfiguration; unverified)\n  - Reported by developer: purchase tag fires on thank-you page and in a Shopify app\n  - Next step: diagnose in GA4 DebugView without touching live config\n  - Evidence to capture: duplicate purchase events per order, tag firing count, transaction_id/value/currency duplication, trigger setup, Shopify app purchase firing\n  - Risk if app purchase tag removed: possible loss of purchase data; may not fix double counting if p [source truncated]\n- **Refund tracking:** GA4 refund event requirements asked about; prior answer gave category/action fields, unverified for GA4\n- **Server-side tagging:** discussed as a way to improve purchase/refund accuracy and prevent duplicates; not verified; implementation status not stated",
+        "# Session Memory\n\n- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **ROAS reporting:** per channel (agreed; not blended)\n- **Parked:** Meta Ads / Meta Pixel (deferred until after immediate issues)\n- **Open issue:** GA4 purchases double counted; ~30% of orders appear twice\n  - Cause: not stated (suspected: multiple purchase tags or event parameter misconfiguration; unverified)\n  - Reported by developer: purchase tag fires on thank-you page and in a Shopify app\n  - Next step: diagnose in GA4 DebugView without touching live config\n  - Evidence to capture: duplicate purchase events per order, tag firing count, transaction_id/value/currency duplication, trigger setup, Shopify app purchase firing\n  - Risk if app purchase tag removed: possible loss of purchase data; may not fix double counting if p (source truncated)\n- **Proposed simplest fix:** keep one purchase event per transaction; remove redundant purchase tag after verification (not yet confirmed or applied)\n- **Day one:** no live config changes made; DebugView analysis under way\n- **Day one status update:** drafted for Priya, not stated as sent",
+        "- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **ROAS reporting:** per channel (agreed; not blended)\n- **Parked:** Meta Ads / Meta Pixel (deferred until after immediate issues)\n- **Day 1:**\n  - Calendar date: not stated\n  - GA4 audit and DebugView analysis started\n  - No live changes made\n  - Day One update email to Priya drafted; send status not stated\n- **Open issue:** GA4 purchases double counted; ~30% of orders appear twice\n  - Cause: not stated (suspected: multiple purchase tags or event parameter misconfiguration; unverified)\n  - Reported by developer: purchase tag fires on thank-you page and in a Shopify app\n  - Next step: diagnose in GA4 DebugView without touching live config; goal is each purchase recorded once\n  - Evidence to capture: duplicate purchase events per order; tag firing count; transaction_id/value/currency duplication; trigger setup; Shopify app purchase firing\n  - Risk if app purchase tag removed: possible loss of purchase data; may not fix double counting if p [truncated in source]",
+        "- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:**\n  - Google Tag Manager clean-up\n  - GA4 audit\n  - Server-side tagging setup\n  - Optimise Google Ads and Shopping campaigns\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **ROAS reporting:** per channel (agreed; not blended)\n- **Parked:** Meta Ads / Meta Pixel (deferred until after immediate issues)\n- **Day 1:**\n  - Calendar date: not stated\n  - GA4 audit and DebugView analysis started\n  - No live changes made\n  - Day One update email to Priya drafted; send status not stated\n- **Open issue:** GA4 purchases double counted; ~30% of orders appear twice\n  - Cause: not stated (suspected: multiple purchase tags or event parameter misconfiguration; unverified)\n  - Reported by developer: purchase tag fires on thank-you page and in a Shopify app\n  - Next step: diagnose in GA4 DebugView without touching live config; goal is each purchase recorded once\n  - Evidence to capture: duplicate purchase events per order; tag firi\n  - Proposed (not confirmed): verify purchase fires once per transaction (check transaction_id, value, currency); remove redundant tags\n- **Ads risk:** general guidance only, not verified against the account. Fixing GA4 should not inherently affect Google Ads if changes are made carefully.\n- **Post-fix monitoring:** at least one full reporting period (one week) recommended; set up alerts or automated checks (not confirmed).\n- **Follow-up:** one-week review call offered; not confirmed.",
+        "- **Client:** Tarn Valley Cycles, online bike shop in Kendal\n- **Main contact:** Priya Shah, head of ecommerce\n- **Platform:** Shopify store, Dawn theme version 15\n- **GA4 property ID:** G-7Q2K9XW4\n- **Reporting day:** Friday\n- **Consent platform:** Cookiebot\n- **Scope:** GTM clean-up; GA4 audit; server-side tagging setup; optimise Google Ads and Shopping\n- **Tracking rebuild budget:** £2,400, fixed fee\n- **ROAS reporting:** per channel (agreed; not blended)\n- **Parked:** Meta Ads / Meta Pixel (until after immediate issues)\n- **Day 1:**\n  - Calendar date: not stated\n  - GA4 audit and DebugView analysis started; no live changes made\n  - Day One update email to Priya drafted; send status not stated\n- **Open issue:** GA4 purchases double counted; ~30% of orders appear twice\n  - Cause: not stated (suspected: multiple purchase tags or event parameter misconfiguration; unverified)\n  - Reported by developer: purchase tag fires on thank-you page and in a Shopify app\n  - Next step: diagnose in GA4 DebugView without touching live config; goal is each purchase recorded once\n  - Evidence to capture: duplicate purchase events per order; tag firi (truncated in source)\n- **Closing checklist:** drafted; completion status not stated\n  - GA4: purchase tag fires once per transaction; transaction_id, value, currency consistent; no duplicate purchase events\n  - GTM: remove redundant tags; verify firing rules and triggers\n  - Server-side: tags configured and tested in DebugView\n  - Google Ads/Shopping: review ad groups and keywords; check bid strategies\n- **Handover note:** drafted; Day 1 section incomplete in source"
+      ],
+      "turns": 40,
+      "chat_usd": 0.18093,
+      "distill_usd": 0.04362,
+      "total_usd": 0.22454,
+      "prompt_tokens": 76185,
+      "cached_tokens": 52550,
+      "cache_hit_share": 0.69,
+      "last_prompt_tokens": 1997,
+      "median_prefill_ms": 636.3,
+      "distill_calls": 18,
+      "recall": 7,
+      "recall_of": 8,
+      "wall_s": 249.0,
+      "per_turn": [
+        {
+          "turn": 1,
+          "prompt_tokens": 1131,
+          "cached_tokens": 0,
+          "prefill_ms": 56.0
+        },
+        {
+          "turn": 2,
+          "prompt_tokens": 1235,
+          "cached_tokens": 1131,
+          "prefill_ms": 60.7
+        },
+        {
+          "turn": 3,
+          "prompt_tokens": 1302,
+          "cached_tokens": 1235,
+          "prefill_ms": 50.8
+        },
+        {
+          "turn": 4,
+          "prompt_tokens": 1359,
+          "cached_tokens": 1302,
+          "prefill_ms": 57.3
+        },
+        {
+          "turn": 5,
+          "prompt_tokens": 1415,
+          "cached_tokens": 1359,
+          "prefill_ms": 48.7
+        },
+        {
+          "turn": 6,
+          "prompt_tokens": 1395,
+          "cached_tokens": 1114,
+          "prefill_ms": 445.5
+        },
+        {
+          "turn": 7,
+          "prompt_tokens": 1497,
+          "cached_tokens": 1284,
+          "prefill_ms": 272.1
+        },
+        {
+          "turn": 8,
+          "prompt_tokens": 1526,
+          "cached_tokens": 1114,
+          "prefill_ms": 470.4
+        },
+        {
+          "turn": 9,
+          "prompt_tokens": 1651,
+          "cached_tokens": 1384,
+          "prefill_ms": 353.7
+        },
+        {
+          "turn": 10,
+          "prompt_tokens": 1611,
+          "cached_tokens": 1114,
+          "prefill_ms": 553.8
+        },
+        {
+          "turn": 11,
+          "prompt_tokens": 1764,
+          "cached_tokens": 1467,
+          "prefill_ms": 380.2
+        },
+        {
+          "turn": 12,
+          "prompt_tokens": 1812,
+          "cached_tokens": 1114,
+          "prefill_ms": 749.4
+        },
+        {
+          "turn": 13,
+          "prompt_tokens": 2027,
+          "cached_tokens": 1583,
+          "prefill_ms": 553.7
+        },
+        {
+          "turn": 14,
+          "prompt_tokens": 2053,
+          "cached_tokens": 1114,
+          "prefill_ms": 1002.1
+        },
+        {
+          "turn": 15,
+          "prompt_tokens": 2269,
+          "cached_tokens": 1729,
+          "prefill_ms": 718.1
+        },
+        {
+          "turn": 16,
+          "prompt_tokens": 2070,
+          "cached_tokens": 1114,
+          "prefill_ms": 1117.4
+        },
+        {
+          "turn": 17,
+          "prompt_tokens": 2225,
+          "cached_tokens": 1728,
+          "prefill_ms": 624.6
+        },
+        {
+          "turn": 18,
+          "prompt_tokens": 1924,
+          "cached_tokens": 1114,
+          "prefill_ms": 860.0
+        },
+        {
+          "turn": 19,
+          "prompt_tokens": 2144,
+          "cached_tokens": 1586,
+          "prefill_ms": 705.8
+        },
+        {
+          "turn": 20,
+          "prompt_tokens": 1959,
+          "cached_tokens": 1114,
+          "prefill_ms": 920.8
+        },
+        {
+          "turn": 21,
+          "prompt_tokens": 2033,
+          "cached_tokens": 1625,
+          "prefill_ms": 548.5
+        },
+        {
+          "turn": 22,
+          "prompt_tokens": 1899,
+          "cached_tokens": 1114,
+          "prefill_ms": 846.0
+        },
+        {
+          "turn": 23,
+          "prompt_tokens": 2090,
+          "cached_tokens": 1568,
+          "prefill_ms": 576.5
+        },
+        {
+          "turn": 24,
+          "prompt_tokens": 2056,
+          "cached_tokens": 1114,
+          "prefill_ms": 1095.4
+        },
+        {
+          "turn": 25,
+          "prompt_tokens": 2243,
+          "cached_tokens": 1721,
+          "prefill_ms": 706.2
+        },
+        {
+          "turn": 26,
+          "prompt_tokens": 2068,
+          "cached_tokens": 1114,
+          "prefill_ms": 983.5
+        },
+        {
+          "turn": 27,
+          "prompt_tokens": 2262,
+          "cached_tokens": 1726,
+          "prefill_ms": 602.4
+        },
+        {
+          "turn": 28,
+          "prompt_tokens": 2025,
+          "cached_tokens": 1114,
+          "prefill_ms": 987.3
+        },
+        {
+          "turn": 29,
+          "prompt_tokens": 2238,
+          "cached_tokens": 1693,
+          "prefill_ms": 621.4
+        },
+        {
+          "turn": 30,
+          "prompt_tokens": 2040,
+          "cached_tokens": 1114,
+          "prefill_ms": 980.8
+        },
+        {
+          "turn": 31,
+          "prompt_tokens": 2235,
+          "cached_tokens": 1707,
+          "prefill_ms": 620.8
+        },
+        {
+          "turn": 32,
+          "prompt_tokens": 2046,
+          "cached_tokens": 1114,
+          "prefill_ms": 1135.4
+        },
+        {
+          "turn": 33,
+          "prompt_tokens": 2195,
+          "cached_tokens": 1713,
+          "prefill_ms": 628.6
+        },
+        {
+          "turn": 34,
+          "prompt_tokens": 1984,
+          "cached_tokens": 1114,
+          "prefill_ms": 993.4
+        },
+        {
+          "turn": 35,
+          "prompt_tokens": 2117,
+          "cached_tokens": 1651,
+          "prefill_ms": 544.2
+        },
+        {
+          "turn": 36,
+          "prompt_tokens": 1983,
+          "cached_tokens": 1114,
+          "prefill_ms": 927.2
+        },
+        {
+          "turn": 37,
+          "prompt_tokens": 2149,
+          "cached_tokens": 1652,
+          "prefill_ms": 668.3
+        },
+        {
+          "turn": 38,
+          "prompt_tokens": 1989,
+          "cached_tokens": 1114,
+          "prefill_ms": 1163.8
+        },
+        {
+          "turn": 39,
+          "prompt_tokens": 2167,
+          "cached_tokens": 1654,
+          "prefill_ms": 644.0
+        },
+        {
+          "turn": 40,
+          "prompt_tokens": 1997,
+          "cached_tokens": 1114,
+          "prefill_ms": 970.4
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What is the client's GA4 property ID?",
+          "answer": "The client's GA4 property ID is G-7Q2K9XW4.",
+          "ok": true
+        },
+        {
+          "q": "Who is the main contact at the client?",
+          "answer": "The main contact at Tarn Valley Cycles is Priya Shah, Head of Ecommerce.",
+          "ok": true
+        },
+        {
+          "q": "What is the agreed fee for the rebuild?",
+          "answer": "The agreed fee for the tracking rebuild is £2,400, which is a fixed fee.",
+          "ok": true
+        },
+        {
+          "q": "What is the rebuild deadline?",
+          "answer": "The rebuild deadline for the GA4 audit and server-side tagging setup is not stated in the session memory. We should confirm this with Priya Shah to ensure there are no unexpected delays.",
+          "ok": false
+        },
+        {
+          "q": "Which consent platform does the client use?",
+          "answer": "The client uses Cookiebot for consent management.",
+          "ok": true
+        },
+        {
+          "q": "Which Shopify theme is the store on?",
+          "answer": "The store is on the Dawn theme version 15.",
+          "ok": true
+        },
+        {
+          "q": "Roughly what share of orders is double counting?",
+          "answer": "Approximately 30% of orders are double counted due to the issue with duplicate purchase events.",
+          "ok": true
+        },
+        {
+          "q": "What is the client's name and where are they based?",
+          "answer": "The client is Tarn Valley Cycles, an online bike shop based in Kendal.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "strategy": "elephant_goldfish_b12",
+      "distiller": "claude-haiku",
+      "notes": [
+        "- **Client:** Tarn Valley Cycles, online bike shop, Kendal\n- **GA4 property ID:** G-7Q2K9XW4\n- **Main contact:** Priya Shah, head of ecommerce\n- **Budget:** £2,400, fixed fee (tracking rebuild)\n- **Deadline:** 12 December (tracking rebuild)\n- **Task owner:** not stated\n- **Scope:** not stated\n- **Reporting day:** not stated\n- **Open tasks:** not stated",
+        "- **Client:** Tarn Valley Cycles, online bike shop, Kendal\n- **GA4 property ID:** G-7Q2K9XW4\n- **Main contact:** Priya Shah, head of ecommerce\n- **Budget:** £2,400, fixed fee (tracking rebuild)\n- **Deadline:** 12 December (tracking rebuild)\n- **Consent platform:** Cookiebot\n- **Shopify theme:** Dawn, version 15\n- **Issue:** Purchases double counted in GA4; roughly 30% of orders appear twice\n- **Open task:** Investigate double counting (not started)\n- **Day-one plan (draft):** Review GTM and GA4 setup; check Ecommerce tag; use GA4 DebugView to find duplicate events; confirm the purchase tag fires once per order; check for conflicting tags; document findings and prepare a report\n- **Task owner:** not stated\n- **Scope:** not stated\n- **Reporting day:** not stated\n- **Other open tasks:** not stated",
+        "# Session Memory: Tarn Valley Cycles\n\n- **Client:** Tarn Valley Cycles, online bike shop, Kendal\n- **GA4 property ID:** G-7Q2K9XW4\n- **Main contact:** Priya Shah, head of ecommerce\n- **Budget:** £2,400, fixed fee (tracking rebuild)\n- **Deadline:** 12 December (tracking rebuild)\n- **Consent platform:** Cookiebot\n- **Shopify theme:** Dawn, version 15\n- **Meta ads:** Yes; Meta Pixel review deferred (later, not in current scope)\n- **Issue:** Purchases double counted in GA4; roughly 30% of orders appear twice\n- **Suspected cause:** Purchase tag fires on thank-you page and in a Shopify app (per client's developer)\n- **Open task:** Investigate double counting (not started)\n- **Day-one plan (draft):**\n  - Review GTM and GA4 setup; check Ecommerce tag\n  - Use GA4 DebugView to find duplicate `purchase` events (no live config changes)\n  - Confirm purchase tag fires once per order; check for conflicting tags\n  - Document findings and prepare a report\n- **Consent Mode check (draft):** Verify Cookiebot–GA4 integration; confirm Consent Mode v2 enabled; confirm GTM tags fire only with consent\n- **Task owner:** not stated\n- **Scope:** not stated\n- **Reporting day:** not stated\n- **Other open tasks:** not stated",
+        "# Session Memory: Tarn Valley Cycles\n\n- **Client:** Tarn Valley Cycles, online bike shop, Kendal\n- **GA4 property ID:** G-7Q2K9XW4\n- **Main contact:** Priya Shah, head of ecommerce\n- **Budget:** £2,400, fixed fee (tracking rebuild)\n- **Deadline:** 12 December (tracking rebuild)\n- **Consent platform:** Cookiebot\n- **Shopify theme:** Dawn, version 15\n- **Meta ads:** Yes; Meta Pixel review parked (not in current scope)\n- **Issue:** Purchases double counted in GA4; roughly 30% of orders appear twice\n- **Suspected cause:** Purchase tag fires on thank-you page and in a Shopify app (per client's developer)\n- **Open task:** Investigate double counting (not started)\n- **Day-one plan (draft):**\n  - Review GTM and GA4 setup; check Ecommerce tag\n  - Use GA4 DebugView to find duplicate `purchase` events (no live config changes)\n  - Confirm purchase tag fires once per order; check for conflicting tags\n  - Document findings and prepare a report\n- **Consent Mode check (draft):** Verify Cookiebot–GA4 integration; confirm Consent Mode v2 enabled; confirm GTM tags fire only with consent\n- **GTM read access:** Request to developer drafted (short, informal). Sent status: not stated. Developer name: not stated.\n- **Removing app purchase tag:** Risks discussed (data loss, persistent double counting, tag conflicts). Decision: not stated. Revenue-drop monitoring plan discussed; not finalised.\n- **Task owner:** not stated\n- **Scope:** not stated\n- **Reporting day:** not stated\n- **Other open tasks:** not stated",
+        "# Session Memory: Tarn Valley Cycles\n\n- **Client:** Tarn Valley Cycles, online bike shop, Kendal\n- **GA4 property ID:** G-7Q2K9XW4\n- **Main contact:** Priya Shah, Head of Ecommerce\n- **Budget:** £2,400, fixed fee (tracking rebuild)\n- **Deadline:** 12 December (tracking rebuild)\n- **Consent platform:** Cookiebot\n- **Shopify theme:** Dawn, version 15\n- **Meta ads:** Yes; Meta Pixel review parked (not in current scope)\n- **Issue:** Purchases double counted in GA4; roughly 30% of orders appear twice\n- **Suspected cause:** Purchase tag fires on thank-you page and in a Shopify app (per client's developer)\n- **Open task:** Investigate double counting (not started)\n- **Day-one plan (draft):**\n  - Review GTM and GA4 setup; check Ecommerce tag\n  - Use GA4 DebugView to find duplicate `purchase` events (no live config changes)\n  - Confirm purchase tag fires once per order; check for conflicting tags\n  - Document findings and prepare a report\n- **Consent Mode check (draft):** Verify Cookiebot–GA4 integration; confirm Consent Mode v2 enabled; confirm GTM tags fire only with consent\n- **GTM read access:** Request to developer drafted (short, informal). Sent status: not stated. Developer name: not stated\n- **Weekly report (own template):**\n  - Priority metrics: (1) double counting status, (2) GA4 ecommerce data accuracy incl. % double-counted orders, (3) ROAS by channel (Google Ads, Meta Ads, etc.)\n  - ROAS reported per channel, not blended\n  - Dedicated section for data gaps\n  - Report period: placeholders only; dates not stated\n  - Draft wording claiming duplicates resolved, GTM verified, and Consent Mode verified is unverified; treat as not done\n- **Tomorrow's to-do (day-one plan):** GTM/GA4 setup review; DebugView duplicate check; confirm single purchase fire per order; Consent Mode check; document findings and prepare report",
+        "# Session Memory: Tarn Valley Cycles\n\n- **Client:** Tarn Valley Cycles, online bike shop, Kendal\n- **GA4 property ID:** G-7Q2K9XW4\n- **Main contact:** Priya Shah, Head of Ecommerce\n- **Budget:** £2,400, fixed fee (tracking rebuild)\n- **Deadline:** 12 December (tracking rebuild)\n- **Consent platform:** Cookiebot\n- **Shopify theme:** Dawn, version 15\n- **Meta ads:** Yes; Meta Pixel review parked (not in current scope)\n- **Issue:** Purchases double counted in GA4; roughly 30% of orders appear twice\n- **Suspected cause:** Purchase tag fires on thank-you page and in a Shopify app (per client's developer)\n- **Open task:** Investigate double counting (not started)\n- **Day-one plan (draft):**\n  - Review GTM and GA4 setup; check Ecommerce tag\n  - Use GA4 DebugView to find duplicate `purchase` events (no live config changes)\n  - Confirm purchase tag fires once per order; check for conflicting tags\n  - Document findings and prepare a report\n- **Consent Mode check (draft):** Verify Cookiebot–GA4 integration; confirm Consent Mode v2 enabled; confirm GTM tags fire only with consent\n- **GTM read access:** Request to developer drafted (short, informal). Sent status: not stated. Developer name: not stated\n- **Returns process:** Ask client about it; refunds may need a refund event. Status: not started\n- **Server-side tagging:** Deferred by user (\"Not now\")\n- **Simplest fix (proposed, unverified):** Ensure purchase tag fires once per order; disable or remove conflicting tags\n- **Client status update:** Day-one draft written; report dates not stated (placeholders). Findings unverified",
+        "# Session Memory: Tarn Valley Cycles\n\n- **Client:** Tarn Valley Cycles, online bike shop, Kendal\n- **GA4 property ID:** G-7Q2K9XW4\n- **Contact:** Priya Shah, Head of Ecommerce\n- **Budget:** £2,400, fixed fee (tracking rebuild)\n- **Deadline:** 12 December (tracking rebuild)\n- **Consent platform:** Cookiebot\n- **Shopify theme:** Dawn, version 15\n- **Meta ads:** Yes; Meta Pixel review parked (not in scope)\n- **Issue:** Purchases double counted in GA4; roughly 30% of orders appear twice\n- **Suspected cause:** Purchase tag fires on thank-you page and in a Shopify app (per client's developer)\n- **Open task:** Investigate double counting (not started)\n- **Day-one plan (draft):** Review GTM/GA4 setup and Ecommerce tag; use DebugView to find duplicate `purchase` events (no live config changes); confirm tag fires once per order; document and report\n- **Consent Mode check (draft):** Verify Cookiebot–GA4 integration; confirm Consent Mode v2 enabled; confirm GTM tags fire only with consent\n- **GTM read access:** Developer request drafted (short, informal). Sent status: not stated. Developer name: not stated\n- **Unverified drafts:** Weekly report and run history say the Shopify app tag was disabled; no confirmation given, so treat as not stated. Report dates: [Start Date] to [End Date] (placeholders)\n- **Closing checklist:** Drafted for rebuild (Ecommerce tag, DebugView, Consent Mode, documentation)\n- **Post-fix monitoring:** Assistant suggested at least one week; not agreed"
+      ],
+      "turns": 40,
+      "chat_usd": 0.17401,
+      "distill_usd": 0.02086,
+      "total_usd": 0.19487,
+      "prompt_tokens": 93583,
+      "cached_tokens": 73591,
+      "cache_hit_share": 0.786,
+      "last_prompt_tokens": 3059,
+      "median_prefill_ms": 663.7,
+      "distill_calls": 7,
+      "recall": 8,
+      "recall_of": 8,
+      "wall_s": 202.7,
+      "per_turn": [
+        {
+          "turn": 1,
+          "prompt_tokens": 1131,
+          "cached_tokens": 0,
+          "prefill_ms": 50.5
+        },
+        {
+          "turn": 2,
+          "prompt_tokens": 1235,
+          "cached_tokens": 1131,
+          "prefill_ms": 59.3
+        },
+        {
+          "turn": 3,
+          "prompt_tokens": 1302,
+          "cached_tokens": 1235,
+          "prefill_ms": 51.4
+        },
+        {
+          "turn": 4,
+          "prompt_tokens": 1359,
+          "cached_tokens": 1302,
+          "prefill_ms": 58.3
+        },
+        {
+          "turn": 5,
+          "prompt_tokens": 1415,
+          "cached_tokens": 1359,
+          "prefill_ms": 51.8
+        },
+        {
+          "turn": 6,
+          "prompt_tokens": 1471,
+          "cached_tokens": 1415,
+          "prefill_ms": 50.9
+        },
+        {
+          "turn": 7,
+          "prompt_tokens": 1543,
+          "cached_tokens": 1471,
+          "prefill_ms": 54.3
+        },
+        {
+          "turn": 8,
+          "prompt_tokens": 1636,
+          "cached_tokens": 1543,
+          "prefill_ms": 61.2
+        },
+        {
+          "turn": 9,
+          "prompt_tokens": 1734,
+          "cached_tokens": 1636,
+          "prefill_ms": 54.4
+        },
+        {
+          "turn": 10,
+          "prompt_tokens": 1848,
+          "cached_tokens": 1734,
+          "prefill_ms": 55.3
+        },
+        {
+          "turn": 11,
+          "prompt_tokens": 1820,
+          "cached_tokens": 1114,
+          "prefill_ms": 855.0
+        },
+        {
+          "turn": 12,
+          "prompt_tokens": 2037,
+          "cached_tokens": 1698,
+          "prefill_ms": 452.2
+        },
+        {
+          "turn": 13,
+          "prompt_tokens": 2247,
+          "cached_tokens": 1906,
+          "prefill_ms": 470.7
+        },
+        {
+          "turn": 14,
+          "prompt_tokens": 2435,
+          "cached_tokens": 2117,
+          "prefill_ms": 467.0
+        },
+        {
+          "turn": 15,
+          "prompt_tokens": 2621,
+          "cached_tokens": 2310,
+          "prefill_ms": 435.7
+        },
+        {
+          "turn": 16,
+          "prompt_tokens": 2345,
+          "cached_tokens": 1114,
+          "prefill_ms": 1298.7
+        },
+        {
+          "turn": 17,
+          "prompt_tokens": 2486,
+          "cached_tokens": 2101,
+          "prefill_ms": 481.2
+        },
+        {
+          "turn": 18,
+          "prompt_tokens": 2612,
+          "cached_tokens": 2256,
+          "prefill_ms": 490.1
+        },
+        {
+          "turn": 19,
+          "prompt_tokens": 2810,
+          "cached_tokens": 2373,
+          "prefill_ms": 583.9
+        },
+        {
+          "turn": 20,
+          "prompt_tokens": 3015,
+          "cached_tokens": 2572,
+          "prefill_ms": 568.7
+        },
+        {
+          "turn": 21,
+          "prompt_tokens": 2193,
+          "cached_tokens": 1114,
+          "prefill_ms": 1197.1
+        },
+        {
+          "turn": 22,
+          "prompt_tokens": 2383,
+          "cached_tokens": 1852,
+          "prefill_ms": 688.9
+        },
+        {
+          "turn": 23,
+          "prompt_tokens": 2552,
+          "cached_tokens": 2052,
+          "prefill_ms": 611.1
+        },
+        {
+          "turn": 24,
+          "prompt_tokens": 2763,
+          "cached_tokens": 2220,
+          "prefill_ms": 731.8
+        },
+        {
+          "turn": 25,
+          "prompt_tokens": 2954,
+          "cached_tokens": 2428,
+          "prefill_ms": 718.4
+        },
+        {
+          "turn": 26,
+          "prompt_tokens": 2405,
+          "cached_tokens": 1114,
+          "prefill_ms": 1348.6
+        },
+        {
+          "turn": 27,
+          "prompt_tokens": 2584,
+          "cached_tokens": 2063,
+          "prefill_ms": 707.9
+        },
+        {
+          "turn": 28,
+          "prompt_tokens": 2782,
+          "cached_tokens": 2255,
+          "prefill_ms": 724.1
+        },
+        {
+          "turn": 29,
+          "prompt_tokens": 2992,
+          "cached_tokens": 2450,
+          "prefill_ms": 717.4
+        },
+        {
+          "turn": 30,
+          "prompt_tokens": 3193,
+          "cached_tokens": 2657,
+          "prefill_ms": 753.1
+        },
+        {
+          "turn": 31,
+          "prompt_tokens": 2422,
+          "cached_tokens": 1114,
+          "prefill_ms": 1561.2
+        },
+        {
+          "turn": 32,
+          "prompt_tokens": 2607,
+          "cached_tokens": 2096,
+          "prefill_ms": 691.9
+        },
+        {
+          "turn": 33,
+          "prompt_tokens": 2796,
+          "cached_tokens": 2274,
+          "prefill_ms": 719.4
+        },
+        {
+          "turn": 34,
+          "prompt_tokens": 2994,
+          "cached_tokens": 2462,
+          "prefill_ms": 736.8
+        },
+        {
+          "turn": 35,
+          "prompt_tokens": 3193,
+          "cached_tokens": 2660,
+          "prefill_ms": 704.7
+        },
+        {
+          "turn": 36,
+          "prompt_tokens": 2398,
+          "cached_tokens": 1114,
+          "prefill_ms": 1384.3
+        },
+        {
+          "turn": 37,
+          "prompt_tokens": 2567,
+          "cached_tokens": 2067,
+          "prefill_ms": 699.9
+        },
+        {
+          "turn": 38,
+          "prompt_tokens": 2759,
+          "cached_tokens": 2233,
+          "prefill_ms": 724.9
+        },
+        {
+          "turn": 39,
+          "prompt_tokens": 2885,
+          "cached_tokens": 2424,
+          "prefill_ms": 638.4
+        },
+        {
+          "turn": 40,
+          "prompt_tokens": 3059,
+          "cached_tokens": 2555,
+          "prefill_ms": 715.3
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What is the client's GA4 property ID?",
+          "answer": "The client's GA4 property ID is G-7Q2K9XW4.",
+          "ok": true
+        },
+        {
+          "q": "Who is the main contact at the client?",
+          "answer": "The main contact at Tarn Valley Cycles is Priya Shah, Head of Ecommerce.",
+          "ok": true
+        },
+        {
+          "q": "What is the agreed fee for the rebuild?",
+          "answer": "The agreed fee for the GA4 tracking rebuild for Tarn Valley Cycles is £2,400 (fixed fee).",
+          "ok": true
+        },
+        {
+          "q": "What is the rebuild deadline?",
+          "answer": "The deadline for the GA4 tracking rebuild is 12 December.",
+          "ok": true
+        },
+        {
+          "q": "Which consent platform does the client use?",
+          "answer": "The client uses Cookiebot for consent management.",
+          "ok": true
+        },
+        {
+          "q": "Which Shopify theme is the store on?",
+          "answer": "The store is on the Shopify theme Dawn, version 15.",
+          "ok": true
+        },
+        {
+          "q": "Roughly what share of orders is double counting?",
+          "answer": "The double counting issue is causing approximately 30% of orders to appear twice in GA4.",
+          "ok": true
+        },
+        {
+          "q": "What is the client's name and where are they based?",
+          "answer": "The client is Tarn Valley Cycles, an online bike shop based in Kendal.",
+          "ok": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,978 @@
+{
+  "model": "qwen2.5:7b",
+  "distiller": "ollama",
+  "system_tokens": 1108,
+  "results": [
+    {
+      "strategy": "rolling_summary",
+      "distiller": "ollama",
+      "notes": [
+        "- New client: Tarn Valley Cycles, an online bike shop in Kendal.\n- Reporting day: Friday.\n- Tasks: Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimisation of Google Ads and Shopping campaigns.\n- Task owner: [Owner's Name].\n- Deadline: [Deadline Date].",
+        "- New client: Tarn Valley Cycles, an online bike shop in Kendal.\n- Reporting day: Friday.\n- Tasks: Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimisation of Google Ads and Shopping campaigns.\n- GA4 property ID: G-7Q2K9XW4.\n- Task owner: [Owner's Name].\n- Deadline: [Deadline Date].",
+        "- Main contact: Priya Shah, head of ecommerce.\n- Task owner: [Owner's Name].\n- Deadline: [Deadline Date].\n- Tasks: Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimisation of Google Ads and Shopping campaigns.\n- GA4 property ID: G-7Q2K9XW4.",
+        "- Main contact: Priya Shah, head of ecommerce.\n- Task owner: [Owner's Name].\n- Deadline: [Deadline Date].\n- Tasks: Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimisation of Google Ads and Shopping campaigns.\n- GA4 property ID: G-7Q2K9XW4.\n- Agreed budget for the tracking rebuild: £2,400, fixed fee.",
+        "- Main contact: Priya Shah, head of ecommerce.\n- Task owner: [Owner's Name].\n- Deadline: 12 December.\n- Tasks: Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimisation of Google Ads and Shopping campaigns.\n- GA4 property ID: G-7Q2K9XW4.\n- Agreed budget for the tracking rebuild: £2,400, fixed fee.",
+        "- Main contact: Priya Shah, head of ecommerce.\n- Task owner: [Owner's Name].\n- Deadline: 12 December.\n- Tasks: Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimisation of Google Ads and Shopping campaigns.\n- GA4 property ID: G-7Q2K9XW4.\n- Agreed budget for the tracking rebuild: £2,400, fixed fee.\n- Consent platform: Cookiebot.",
+        "- Main contact: Priya Shah, head of ecommerce.\n- Task owner: [Owner's Name].\n- Deadline: 12 December.\n- Tasks: Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimisation of Google Ads and Shopping campaigns.\n- GA4 property ID: G-7Q2K9XW4.\n- Agreed budget for the tracking rebuild: £2,400, fixed fee.\n- Consent platform: Cookiebot.\n- Shopify theme: Dawn, version 15.",
+        "- Main contact: Priya Shah, head of ecommerce.\n- Task owner: [Owner's Name].\n- Deadline: 12 December.\n- Tasks: Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimisation of Google Ads and Shopping campaigns.\n- GA4 property ID: G-7Q2K9XW4.\n- Agreed budget for the tracking rebuild: £2,400, fixed fee.\n- Consent platform: Cookiebot.\n- Shopify theme: Dawn, version 15.\n- Issue: Purchases are double counting in GA4, with roughly 30% of orders appearing twice.",
+        "- Main contact: Priya Shah, head of ecommerce.\n- Task owner: [Owner's Name].\n- Deadline: 12 December.\n- Tasks: Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimisation of Google Ads and Shopping campaigns.\n- GA4 property ID: G-7Q2K9XW4.\n- Agreed budget for the tracking rebuild: £2,400, fixed fee.\n- Consent platform: Cookiebot.\n- Shopify theme: Dawn, version 15.\n- Issue: Purchases are double counting in GA4, with roughly 30% of orders appearing twice.\n- First steps: Check event triggers and validation in Google Tag Manager, review GA4 DebugView for duplicate events, verify purchase confirmation page tag implementation.",
+        "- Main contact: Priya Shah, head of ecommerce.\n- Task owner: [Owner's Name].\n- Deadline: 12 December.\n- Tasks: Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimisation of Google Ads and Shopping campaigns.\n- GA4 property ID: G-7Q2K9XW4.\n- Agreed budget for the tracking rebuild: £2,400, fixed fee.\n- Consent platform: Cookiebot.\n- Shopify theme: Dawn, version 15.\n- Issue: Purchases are double counting in GA4, with roughly 30% of orders appearing twice.\n- First steps: Check event triggers and validation in Google Tag Manager, review GA4 DebugView for duplicate events, verify purchase confirmation page tag implementation.\n- Day one plan:\n  - Confirm the current implementation of the Google Tag Manager container.\n  - Verify the GA4 property ID (G-7Q2K9XW4) and ensure it is correctly linked to the Tag Manager container.\n  - Check the event triggers in Google Tag Manager to ensure they are not set up to fire multiple times.\n  - Review the validation settings to confirm they are correctly configured.\n  - Use GA4 DebugView to identify and log any duplicate events being sent.\n  - Analyze the DebugView logs to pinpoint the source of the double counting.",
+        "- Main contact: Priya Shah, head of ecommerce.\n- Task owner: [Owner's Name].\n- Deadline: 12 December.\n- Tasks: Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimisation of Google Ads and Shopping campaigns.\n- GA4 property ID: G-7Q2K9XW4.\n- Agreed budget for the tracking rebuild: £2,400, fixed fee.\n- Consent platform: Cookiebot.\n- Shopify theme: Dawn, version 15.\n- Issue: Purchases are double counting in GA4, with roughly 30% of orders appearing twice.\n- First steps: Check event triggers and validation in Google Tag Manager, review GA4 DebugView for duplicate events, verify purchase confirmation page tag implementation.\n- Day one plan:\n  - Confirm the current implementation of the Google Tag Manager container.\n  - Verify the GA4 property ID (G-7Q2K9XW4) and ensure it is correctly linked to the Tag Manager container.\n  - Check the event triggers in Google Tag Manager to ensure they are not set up to fire multiple times.\n  - Review the validation settings to confirm they are correctly configured.\n  - Use GA4 DebugView to identify and log any duplicate events being sent.\n  - Analyze the DebugView logs to pinpoint the source of the double counting.\n  - Capture evidence in DebugView by logging repeated event logs, tag firing, tag",
+        "- Double-counting issue confirmed with purchase tag firing on the thank-you page and in a Shopify app.\n- DebugView logs to check for multiple tag firings on the thank-you page and from the Shopify app.\n- Verify event validation settings in Google Tag Manager to prevent multiple firings.\n- Continue with existing first steps: confirm Tag Manager container implementation, verify GA4 property ID, and review event triggers.",
+        "- Double-counting issue confirmed with purchase tag firing on the thank-you page and in a Shopify app.\n- DebugView logs to check for multiple tag firings on the thank-you page and from the Shopify app.\n- Verify event validation settings in Google Tag Manager to prevent multiple firings.\n- Review DebugView logs for timestamps and event details.\n- Check tag firing conditions and triggers in Google Tag Manager.\n- Verify validation settings in Google Tag Manager.\n- Continue with existing first steps: confirm Tag Manager container implementation, verify GA4 property ID, and review event triggers.",
+        "- Double-counting issue confirmed with purchase tag firing on the thank-you page and in a Shopify app.\n- DebugView logs to check for multiple tag firings on the thank-you page and from the Shopify app.\n- Verify event validation settings in Google Tag Manager to prevent multiple firings.\n- Review DebugView logs for timestamps and event details.\n- Check tag firing conditions and triggers in Google Tag Manager.\n- Verify validation settings in Google Tag Manager.\n- Continue with existing first steps: confirm Tag Manager container implementation, verify GA4 property ID, and review event triggers.\n- For the Consent Mode check using Cookiebot, ensure the following:\n  - Verify that the Cookiebot consent banner is visible and functional on all pages.\n  - Check that users can provide or withdraw their consent through the Cookiebot banner.\n  - Ensure the Cookiebot tag is correctly integrated into the Google Tag Manager container.\n  - Verify that the Cookiebot tag is firing and updating the consent status in GA4.",
+        "- Double-counting issue confirmed with purchase tag firing on the thank-you page and in a Shopify app.\n- DebugView logs to check for multiple tag firings on the thank-you page and from the Shopify app.\n- Verify event validation settings in Google Tag Manager to prevent multiple firings.\n- Review DebugView logs for timestamps and event details.\n- Check tag firing conditions and triggers in Google Tag Manager.\n- Verify validation settings in Google Tag Manager.\n- Continue with existing first steps: confirm Tag Manager container implementation, verify GA4 property ID (G-7Q2K9XW4), and review event triggers.\n- For the Consent Mode check using Cookiebot, ensure the following:\n  - Verify that the Cookiebot consent banner is visible and functional on all pages.\n  - Check that users can provide or withdraw their consent through the Cookiebot banner.\n  - Ensure the Cookiebot tag is correctly integrated into the Google Tag Manager container.\n  - Verify that the Cookiebot tag is firing and updating the consent status in GA4.\n- Address Meta Pixel setup and integration later after completing immediate tasks.",
+        "- Draft message sent to developer for read access to Google Tag Manager.\n- Continue with existing first steps: confirm Tag Manager container implementation, verify GA4 property ID (G-7Q2K9XW4), and review event triggers.\n- For the Consent Mode check using Cookiebot, ensure the following:\n  - Verify that the Cookiebot consent banner is visible and functional on all pages.\n  - Check that users can provide or withdraw their consent through the Cookiebot banner.\n  - Ensure the Cookiebot tag is correctly integrated into the Google Tag Manager container.\n  - Verify that the Cookiebot tag is firing and updating the consent status in GA4.\n- Address Meta Pixel setup and integration later after completing immediate tasks.",
+        "- Draft informal message sent to developer for read access to Google Tag Manager: \"Hi [Developer's Name], Can you give us read access to the Google Tag Manager container? We need to check the setup. Thanks! - [Your Name]\"\n- Continue with existing first steps: confirm Tag Manager container implementation, verify GA4 property ID (G-7Q2K9XW4), and review event triggers.\n- For the Consent Mode check using Cookiebot, ensure the following:\n  - Verify that the Cookiebot consent banner is visible and functional on all pages.\n  - Check that users can provide or withdraw their consent through the Cookiebot banner.\n  - Ensure the Cookiebot tag is correctly integrated into the Google Tag Manager container.\n  - Verify that the Cookiebot tag is firing and updating the consent status in GA4.\n- Address Meta Pixel setup and integration later after completing immediate tasks.",
+        "- What could go wrong when removing the app's purchase tag:\n  - **Data Loss:** Loss of conversion data and attribution issues.\n  - **Tracking Errors:** Potential resolution of double-counting issues but ensure no conflicts with other tags.\n  - **User Experience:** Not stated.",
+        "- What could go wrong when removing the app's purchase tag:\n  - **Data Loss:** Loss of conversion data and attribution issues.\n  - **Tracking Errors:** Potential resolution of double-counting issues but ensure no conflicts with other tags.\n  - **User Experience:** Not stated.\n- How to spot a drop in revenue reporting after the change:\n  - **Set Up a Baseline:** Ensure a clear baseline of current revenue data in Google Analytics (GA4) reports.\n  - **Monitor Post-Change:** Monitor the same reports over a similar time period.\n  - **Compare Data:** Compare baseline and post-change revenue data for significant drops.\n  - **Check for Missing Data:** Not stated.",
+        "- What could go wrong when removing the app's purchase tag:\n  - **Data Loss:** Loss of conversion data and attribution issues.\n  - **Tracking Errors:** Potential resolution of double-counting issues but ensure no conflicts with other tags.\n  - **User Experience:** Not stated.\n- How to spot a drop in revenue reporting after the change:\n  - **Set Up a Baseline:** Ensure a clear baseline of current revenue data in Google Analytics (GA4) reports.\n  - **Monitor Post-Change:** Monitor the same reports over a similar time period.\n  - **Compare Data:** Compare baseline and post-change revenue data for significant drops.\n  - **Check for Missing Data:** Not stated.\n- Summary for monitoring revenue reporting:\n  - Compare pre- and post-change data in GA4 \"Conversions\" or \"Ecommerce\" reports over a similar time period.\n  - Look for any significant drops in \"Total Revenue\" or \"Total Transactions\" metrics.",
+        "- What could go wrong when removing the app's purchase tag:\n  - **Data Loss:** Loss of conversion data and attribution issues.\n  - **Tracking Errors:** Potential resolution of double-counting issues but ensure no conflicts with other tags.\n  - **User Experience:** Not stated.\n- How to spot a drop in revenue reporting after the change:\n  - **Set Up a Baseline:** Ensure a clear baseline of current revenue data in Google Analytics (GA4) reports.\n  - **Monitor Post-Change:** Monitor the same reports over a similar time period.\n  - **Compare Data:** Compare baseline and post-change revenue data for significant drops.\n  - **Check for Missing Data:** Not stated.\n- Summary for monitoring revenue reporting:\n  - Compare pre- and post-change data in GA4 \"Conversions\" or \"Ecommerce\" reports over a similar time period.\n  - Look for any significant drops in \"Total Revenue\" or \"Total Transactions\" metrics.\n- Tidy-up of weekly report template:\n  - To ensure accuracy, compare pre- and post-change data in GA4 \"Conversions\" or \"Ecommerce\" reports over a similar time period.\n  - Monitor \"Total Revenue\" and \"Total Transactions\" metrics for any significant drops.",
+        "- What could go wrong when removing the app's purchase tag:\n  - **Data Loss:** Loss of conversion data and attribution issues.\n  - **Tracking Errors:** Potential resolution of double-counting issues but ensure no conflicts with other tags.\n  - **User Experience:** Not stated.\n- How to spot a drop in revenue reporting after the change:\n  - **Set Up a Baseline:** Ensure a clear baseline of current revenue data in Google Analytics (GA4) reports.\n  - **Monitor Post-Change:** Monitor the same reports over a similar time period.\n  - **Compare Data:** Compare baseline and post-change revenue data for significant drops.\n  - **Check for Missing Data:** Not stated.\n- Summary for monitoring revenue reporting:\n  - Compare pre- and post-change data in GA4 \"Conversions\" or \"Ecommerce\" reports over a similar time period.\n  - Look for any significant drops in \"Total Revenue\" or \"Total Transactions\" metrics.\n- Tidy-up of weekly report template:\n  - To ensure accuracy, compare pre- and post-change data in GA4 \"Conversions\" or \"Ecommerce\" reports over a similar time period.\n  - Monitor \"Total Revenue\" and \"Total Transactions\" metrics for any significant drops.\n- Which three metrics to prioritize in the weekly report template:\n  - **Total Revenue**\n  - **Total Transactions**\n  - **Conversion Rate**",
+        "- What could go wrong when removing the app's purchase tag:\n  - **Data Loss:** Loss of conversion data and attribution issues.\n  - **Tracking Errors:** Potential resolution of double-counting issues but ensure no conflicts with other tags.\n  - **User Experience:** Not stated.\n- How to spot a drop in revenue reporting after the change:\n  - **Set Up a Baseline:** Ensure a clear baseline of current revenue data in Google Analytics (GA4) reports.\n  - **Monitor Post-Change:** Monitor the same reports over a similar time period.\n  - **Compare Data:** Compare baseline and post-change revenue data for significant drops.\n  - **Check for Missing Data:** Not stated.\n- Summary for monitoring revenue reporting:\n  - Compare pre- and post-change data in GA4 \"Conversions\" or \"Ecommerce\" reports over a similar time period.\n  - Look for any significant drops in \"Total Revenue\" or \"Total Transactions\" metrics.\n- Tidy-up of weekly report template:\n  - To ensure accuracy, compare pre- and post-change data in GA4 \"Conversions\" or \"Ecommerce\" reports over a similar time period.\n  - Monitor \"Total Revenue\" and \"Total Transactions\" metrics for any significant drops.\n- Which three metrics to prioritize in the weekly report template:\n  - **Total Revenue**\n  - **Total Transactions**\n  - **Conversion Rate**\n- ROAS should be displayed **per channel** for better performance insights.",
+        "- What could go wrong when removing the app's purchase tag:\n  - **Data Loss:** Loss of conversion data and attribution issues.\n  - **Tracking Errors:** Potential resolution of double-counting issues but ensure no conflicts with other tags.\n  - **User Experience:** Not stated.\n- How to spot a drop in revenue reporting after the change:\n  - **Set Up a Baseline:** Ensure a clear baseline of current revenue data in Google Analytics (GA4) reports.\n  - **Monitor Post-Change:** Monitor the same reports over a similar time period.\n  - **Compare Data:** Compare baseline and post-change revenue data for significant drops.\n  - **Check for Missing Data:** Not stated.\n- Summary for monitoring revenue reporting:\n  - Compare pre- and post-change data in GA4 \"Conversions\" or \"Ecommerce\" reports over a similar time period.\n  - Look for any significant drops in \"Total Revenue\" or \"Total Transactions\" metrics.\n- Tidy-up of weekly report template:\n  - To ensure accuracy, compare pre- and post-change data in GA4 \"Conversions\" or \"Ecommerce\" reports over a similar time period.\n  - Monitor \"Total Revenue\" and \"Total Transactions\" metrics for any significant drops.\n- Which three metrics to prioritize in the weekly report template:\n  - **Total Revenue**\n  - **Total Transactions**\n  - **Conversion Rate**\n- ROAS should be displayed **per channel** for better performance insights.",
+        "- What could go wrong when removing the app's purchase tag:\n  - **Data Loss:** Loss of conversion data and attribution issues.\n  - **Tracking Errors:** Potential resolution of double-counting issues but ensure no conflicts with other tags.\n  - **User Experience:** Not stated.\n- How to spot a drop in revenue reporting after the change:\n  - **Set Up a Baseline:** Ensure a clear baseline of current revenue data in Google Analytics (GA4) reports.\n  - **Monitor Post-Change:** Monitor the same reports over a similar time period.\n  - **Compare Data:** Compare baseline and post-change revenue data for significant drops.\n  - **Check for Missing Data:** Not stated.\n- Summary for monitoring revenue reporting:\n  - Compare pre- and post-change data in GA4 \"Conversions\" or \"Ecommerce\" reports over a similar time period.\n  - Look for any significant drops in \"Total Revenue\" or \"Total Transactions\" metrics.\n- Tidy-up of weekly report template:\n  - To ensure accuracy, compare pre- and post-change data in GA4 \"Conversions\" or \"Ecommerce\" reports over a similar time period.\n  - Monitor \"Total Revenue\" and \"Total Transactions\" metrics for any significant drops.\n- Which three metrics to prioritize in the weekly report template:\n  - **Total Revenue**\n  - **Total Transactions**\n  - **Conversion Rate**\n- ROAS should be displayed **per channel** for better performance insights.",
+        "- **GA4 Audit for New Client:**\n  - Conduct a GA4 audit to identify any tracking issues or improvements needed.\n  - Document findings and prepare a report.\n- **Google Tag Manager Clean-Up:**\n  - Review and clean up any outdated or redundant tags in Google Tag Manager.\n  - Ensure all tags are functioning correctly and are up to date.\n- **Consent Mode v2 Implementation:**\n  - Update consent preferences and settings for all relevant clients.\n  - Ensure compliance with GDPR and other relevant regulations.\n- **Server-Side Tagging Setup:**\n  - Set up server-side tags for clients requiring this setup.\n  - Test the tags to ensure they are functioning properly.\n- **Returns Process:**\n  - Ask about the returns process; ensure a refund event is set up if necessary.\n- What could go wrong when removing the app's purchase tag:\n  - **Data Loss:** Loss of conversion data and attribution issues.\n  - **Tracking Errors:** Potential resolution of double-counting issues but ensure no conflicts with other tags.\n  - **User Experience:** Not stated.\n- How to spot a drop in revenue reporting after the change:\n  - **Set Up a Baseline:** Ensure a clear baseline of current revenue data in Google Analytics (GA4) reports.\n  - **Monitor Post-Change:** Monitor the same reports over a similar time period.\n  - **Compare Data:** Compare baseline and post-change revenue data for significant drops.\n  - **",
+        "- **GA4 Refund Event Setup:**\n  - Set up a new event named \"Refund\" or \"RefundEvent\" in GA4.\n  - Configure event parameters such as `event_name`, `event_value`, `event_category`, and `event_label`.\n  - Implement the event in your code to capture necessary details like refund amount and product ID.\n  - Ensure a clear baseline of current revenue data in GA4 reports.\n  - Monitor post-change revenue data for significant drops to spot potential issues.",
+        "- **GA4 Refund Event Setup:**\n  - Set up a new event named \"Refund\" or \"RefundEvent\" in GA4.\n  - Configure event parameters such as `event_name`, `event_value`, `event_category`, and `event_label`.\n  - Implement the event in your code to capture necessary details like refund amount and product ID.\n  - Ensure a clear baseline of current revenue data in GA4 reports.\n  - Monitor post-change revenue data for significant drops to spot potential issues.\n  - Server-side tagging can enhance data accuracy, ensure compliance and security, and handle complex event tracking for refund events.",
+        "- **GA4 Refund Event Setup:**\n  - Set up a new event named \"Refund\" or \"RefundEvent\" in GA4.\n  - Configure event parameters such as `event_name`, `event_value`, `event_category`, and `event_label`.\n  - Implement the event in your code using the Google Analytics Measurement Protocol to send the event from your server.\n  - ```plaintext\n    POST /collect HTTP/1.1\n    Host: www.google-analytics\n  ```",
+        "- **GA4 Refund Event Setup:**\n  - Set up a new event named \"Refund\" or \"RefundEvent\" in GA4.\n  - Configure event parameters such as `event_name`, `event_value`, `event_category`, and `event_label`.\n  - Implement the event in your code using the Google Analytics Measurement Protocol to send the event from your server.\n  - ```plaintext\n    POST /collect HTTP/1.1\n    Host: www.google-analytics\n  ```\n\n- **Day One Status Update:**\n  - Completed initial GA4 audit and identified key areas for improvement.\n  - Prepared detailed audit report for client review.\n  - Cleaned up outdated or redundant tags in Google Tag Manager.\n  - Updated consent preferences and settings to ensure GDPR compliance.\n  - Confirmation report for consent settings available.",
+        "- **Day One Status Update:**\n  - Completed initial GA4 audit and identified key areas for improvement.\n  - Prepared detailed audit report for client review.\n  - Cleaned up outdated or redundant tags in Google Tag Manager.\n  - Updated consent preferences and settings to ensure GDPR compliance.\n  - Confirmation report for consent settings available.",
+        "- **Day One Status Update:**\n  - **Date:** [Today's Date]\n  - **Client Name:** [Client Name]\n  - **Tasks Completed:**\n    1. GA4 audit completed and report generated.\n    2. Google Tag Manager clean-up completed.\n    3. Consent Mode v2 implementation completed.\n  - **Next Steps:**\n    - Review the GA4 audit report.\n    - Verify the Google Tag Manager clean-up.\n    - Confirm the Consent Mode v2 settings.\n  - **Notes:**\n    - A detailed report is ready for your review.\n    - Confirmation reports for Google Tag Manager and Consent Mode v2 are also available.",
+        "- **Day One Status Update:**\n  - **Date:** [Today's Date]\n  - **Client Name:** [Client Name]\n  - **Tasks Completed:**\n    1. GA4 audit completed and report generated.\n    2. Google Tag Manager clean-up completed.\n    3. Consent Mode v2 implementation completed.\n  - **Next Steps:**\n    - Review the GA4 audit report.\n    - Verify the Google Tag Manager clean-up.\n    - Confirm the Consent Mode v2 settings.\n  - **Notes:**\n    - A detailed report is ready for your review.\n    - Confirmation reports for Google Tag Manager and Consent Mode v2 are also available.\n  - **Additional Information:**\n    - No inherent risk to the Google Ads account from fixing GA4, provided proper backup, testing, and verification are conducted.",
+        "- **Day One Status Update:**\n  - **Date:** [Today's Date]\n  - **Client Name:** [Client Name]\n  - **Tasks Completed:**\n    1. GA4 audit completed and report generated.\n    2. Google Tag Manager clean-up completed.\n    3. Consent Mode v2 implementation completed.\n  - **Next Steps:**\n    - Review the GA4 audit report.\n    - Verify the Google Tag Manager clean-up.\n    - Confirm the Consent Mode v2 settings.\n  - **Notes:**\n    - A detailed report is ready for your review.\n    - Confirmation reports for Google Tag Manager and Consent Mode v2 are also available.\n  - **Additional Information:**\n    - No inherent risk to the Google Ads account from fixing GA4, provided proper backup, testing, and verification are conducted.\n    - After fixing the GA4 setup, monitor the numbers for at least 3-5 business days for daily reporting or one full week for weekly reporting to ensure accuracy and stability.",
+        "- **Day One Status Update:**\n  - **Date:** [Today's Date]\n  - **Client Name:** [Client Name]\n  - **Tasks Completed:**\n    1. GA4 audit completed and report generated.\n    2. Google Tag Manager clean-up completed.\n    3. Consent Mode v2 implementation completed.\n    4. Drafted GA4 rebuild closing checklist.\n  - **Next Steps:**\n    - Review the GA4 audit report.\n    - Verify the Google Tag Manager clean-up.\n    - Confirm the Consent Mode v2 settings.\n    - Monitor GA4 data for 3-5 business days.\n  - **Notes:**\n    - A detailed report is ready for your review.\n    - Confirmation reports for Google Tag Manager and Consent Mode v2 are also available.\n  - **Additional Information:**\n    - No inherent risk to the Google Ads account from fixing GA4, provided proper backup, testing, and verification are conducted.\n    - After fixing the GA4 setup, monitor the numbers for at least 3-5 business days for daily reporting or one full week for weekly reporting to ensure accuracy and stability.",
+        "- **Day One Status Update:**\n  - **Date:** [Today's Date]\n  - **Client Name:** [Client Name]\n  - **Tasks Completed:**\n    1. GA4 audit completed and report generated.\n    2. Google Tag Manager clean-up completed.\n    3. Consent Mode v2 implementation completed.\n    4. Drafted GA4 rebuild closing checklist.\n    5. Handover note drafted and ready for review.\n  - **Next Steps:**\n    - Review the GA4 audit report.\n    - Verify the Google Tag Manager clean-up.\n    - Confirm the Consent Mode v2 settings.\n    - Monitor GA4 data for 3-5 business days.\n  - **Notes:**\n    - A detailed report is ready for your review.\n    - Confirmation reports for Google Tag Manager and Consent Mode v2 are also available.\n    - Handover note is drafted and includes key details for a smooth transition.\n  - **Additional Information:**\n    - No inherent risk to the Google Ads account from fixing GA4, provided proper backup, testing, and verification are conducted.\n    - After fixing the GA4 setup, monitor the numbers for at least 3-5 business days for daily reporting or one full week for weekly reporting to ensure accuracy and stability.",
+        "- **Day One Status Update:**\n  - **Date:** [Today's Date]\n  - **Client Name:** [Client Name]\n  - **Tasks Completed:**\n    1. GA4 audit completed and report generated.\n    2. Google Tag Manager clean-up completed.\n    3. Consent Mode v2 implementation completed.\n    4. Drafted GA4 rebuild closing checklist.\n    5. Handover note drafted and ready for review.\n  - **Next Steps:**\n    - Review the GA4 audit report.\n    - Verify the Google Tag Manager clean-up.\n    - Confirm the Consent Mode v2 settings.\n    - Monitor GA4 data for 3-5 business days.\n  - **Notes:**\n    - A detailed report is ready for your review.\n    - Confirmation reports for Google Tag Manager and Consent Mode v2 are also available.\n    - Handover note is drafted and includes key details for a smooth transition.\n  - **Additional Information:**\n    - No inherent risk to the Google Ads account from fixing GA4, provided proper backup, testing, and verification are conducted.\n    - After fixing the GA4 setup, monitor the numbers for at least 3-5 business days for daily reporting or one full week for weekly reporting to ensure accuracy and stability.\n  - **Final Check:**\n    - **Review GA4 Audit Report:** Ensure the report is reviewed for accuracy and completeness.\n    - **Verify Google Tag Manager Clean-up:**"
+      ],
+      "turns": 40,
+      "chat_usd": 0.16775,
+      "distill_usd": 0.0,
+      "total_usd": 0.16775,
+      "prompt_tokens": 69638,
+      "cached_tokens": 47749,
+      "cache_hit_share": 0.686,
+      "last_prompt_tokens": 1928,
+      "median_prefill_ms": 672.5,
+      "distill_calls": 37,
+      "recall": 0,
+      "recall_of": 8,
+      "wall_s": 298.8,
+      "per_turn": [
+        {
+          "turn": 1,
+          "prompt_tokens": 1131,
+          "cached_tokens": 0,
+          "prefill_ms": 46.9
+        },
+        {
+          "turn": 2,
+          "prompt_tokens": 1235,
+          "cached_tokens": 1131,
+          "prefill_ms": 50.6
+        },
+        {
+          "turn": 3,
+          "prompt_tokens": 1302,
+          "cached_tokens": 1235,
+          "prefill_ms": 48.2
+        },
+        {
+          "turn": 4,
+          "prompt_tokens": 1359,
+          "cached_tokens": 1302,
+          "prefill_ms": 57.6
+        },
+        {
+          "turn": 5,
+          "prompt_tokens": 1384,
+          "cached_tokens": 1111,
+          "prefill_ms": 335.4
+        },
+        {
+          "turn": 6,
+          "prompt_tokens": 1367,
+          "cached_tokens": 1173,
+          "prefill_ms": 272.0
+        },
+        {
+          "turn": 7,
+          "prompt_tokens": 1358,
+          "cached_tokens": 1117,
+          "prefill_ms": 345.6
+        },
+        {
+          "turn": 8,
+          "prompt_tokens": 1389,
+          "cached_tokens": 1184,
+          "prefill_ms": 295.8
+        },
+        {
+          "turn": 9,
+          "prompt_tokens": 1436,
+          "cached_tokens": 1139,
+          "prefill_ms": 360.8
+        },
+        {
+          "turn": 10,
+          "prompt_tokens": 1485,
+          "cached_tokens": 1198,
+          "prefill_ms": 364.9
+        },
+        {
+          "turn": 11,
+          "prompt_tokens": 1616,
+          "cached_tokens": 1206,
+          "prefill_ms": 521.5
+        },
+        {
+          "turn": 12,
+          "prompt_tokens": 1771,
+          "cached_tokens": 1215,
+          "prefill_ms": 609.6
+        },
+        {
+          "turn": 13,
+          "prompt_tokens": 1929,
+          "cached_tokens": 1237,
+          "prefill_ms": 724.6
+        },
+        {
+          "turn": 14,
+          "prompt_tokens": 2088,
+          "cached_tokens": 1280,
+          "prefill_ms": 789.2
+        },
+        {
+          "turn": 15,
+          "prompt_tokens": 2101,
+          "cached_tokens": 1414,
+          "prefill_ms": 701.9
+        },
+        {
+          "turn": 16,
+          "prompt_tokens": 1883,
+          "cached_tokens": 1117,
+          "prefill_ms": 813.3
+        },
+        {
+          "turn": 17,
+          "prompt_tokens": 1891,
+          "cached_tokens": 1189,
+          "prefill_ms": 747.5
+        },
+        {
+          "turn": 18,
+          "prompt_tokens": 1877,
+          "cached_tokens": 1267,
+          "prefill_ms": 661.5
+        },
+        {
+          "turn": 19,
+          "prompt_tokens": 1907,
+          "cached_tokens": 1259,
+          "prefill_ms": 683.5
+        },
+        {
+          "turn": 20,
+          "prompt_tokens": 1806,
+          "cached_tokens": 1118,
+          "prefill_ms": 705.8
+        },
+        {
+          "turn": 21,
+          "prompt_tokens": 1842,
+          "cached_tokens": 1119,
+          "prefill_ms": 796.2
+        },
+        {
+          "turn": 22,
+          "prompt_tokens": 1576,
+          "cached_tokens": 1117,
+          "prefill_ms": 525.9
+        },
+        {
+          "turn": 23,
+          "prompt_tokens": 1563,
+          "cached_tokens": 1186,
+          "prefill_ms": 426.8
+        },
+        {
+          "turn": 24,
+          "prompt_tokens": 1637,
+          "cached_tokens": 1283,
+          "prefill_ms": 371.9
+        },
+        {
+          "turn": 25,
+          "prompt_tokens": 1773,
+          "cached_tokens": 1343,
+          "prefill_ms": 446.0
+        },
+        {
+          "turn": 26,
+          "prompt_tokens": 1930,
+          "cached_tokens": 1407,
+          "prefill_ms": 582.0
+        },
+        {
+          "turn": 27,
+          "prompt_tokens": 2061,
+          "cached_tokens": 1442,
+          "prefill_ms": 659.8
+        },
+        {
+          "turn": 28,
+          "prompt_tokens": 2071,
+          "cached_tokens": 1463,
+          "prefill_ms": 695.8
+        },
+        {
+          "turn": 29,
+          "prompt_tokens": 2093,
+          "cached_tokens": 1463,
+          "prefill_ms": 640.5
+        },
+        {
+          "turn": 30,
+          "prompt_tokens": 2068,
+          "cached_tokens": 1117,
+          "prefill_ms": 1038.7
+        },
+        {
+          "turn": 31,
+          "prompt_tokens": 1853,
+          "cached_tokens": 1119,
+          "prefill_ms": 772.0
+        },
+        {
+          "turn": 32,
+          "prompt_tokens": 1860,
+          "cached_tokens": 1230,
+          "prefill_ms": 751.2
+        },
+        {
+          "turn": 33,
+          "prompt_tokens": 1821,
+          "cached_tokens": 1176,
+          "prefill_ms": 708.3
+        },
+        {
+          "turn": 34,
+          "prompt_tokens": 1908,
+          "cached_tokens": 1217,
+          "prefill_ms": 758.0
+        },
+        {
+          "turn": 35,
+          "prompt_tokens": 1795,
+          "cached_tokens": 1118,
+          "prefill_ms": 726.8
+        },
+        {
+          "turn": 36,
+          "prompt_tokens": 1847,
+          "cached_tokens": 1125,
+          "prefill_ms": 837.6
+        },
+        {
+          "turn": 37,
+          "prompt_tokens": 1869,
+          "cached_tokens": 1257,
+          "prefill_ms": 684.0
+        },
+        {
+          "turn": 38,
+          "prompt_tokens": 1935,
+          "cached_tokens": 1298,
+          "prefill_ms": 761.1
+        },
+        {
+          "turn": 39,
+          "prompt_tokens": 1893,
+          "cached_tokens": 1183,
+          "prefill_ms": 792.4
+        },
+        {
+          "turn": 40,
+          "prompt_tokens": 1928,
+          "cached_tokens": 1194,
+          "prefill_ms": 813.8
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What is the client's GA4 property ID?",
+          "answer": "The client's GA4 property ID was not mentioned in the current conversation. If you need the GA4 property ID, you will need to obtain it from the client or the relevant project documentation. \n\nIf you have access to the Google Analytics 4 property settings, you can find the property ID there",
+          "ok": false
+        },
+        {
+          "q": "Who is the main contact at the client?",
+          "answer": "The main contact at the client has not been specified in our current conversation. Could you please provide the name of the main contact so we can include it in the invoice and any other communications?",
+          "ok": false
+        },
+        {
+          "q": "What is the agreed fee for the rebuild?",
+          "answer": "The agreed fee for the GA4 rebuild is [Agreed Fee Amount]. If you need the exact amount, please refer to the initial quote or contract details.",
+          "ok": false
+        },
+        {
+          "q": "What is the rebuild deadline?",
+          "answer": "The rebuild deadline for the GA4 setup is not specified in the current tasks. Typically, a GA4 rebuild should be completed within a few business days after the initial setup and verification. If there is no specific deadline mentioned, a standard timeframe would be to complete the rebuild and verification within 5 business",
+          "ok": false
+        },
+        {
+          "q": "Which consent platform does the client use?",
+          "answer": "The client is using Consent Mode v2 for their consent management. If you need any further details or specific configurations, let me know.",
+          "ok": false
+        },
+        {
+          "q": "Which Shopify theme is the store on?",
+          "answer": "The conversation did not mention which Shopify theme the store is using. Since this information was not provided, I would recommend checking the client's Shopify store to determine the current theme. If you need assistance with that, let me know, and I can guide you through the process.",
+          "ok": false
+        },
+        {
+          "q": "Roughly what share of orders is double counting?",
+          "answer": "The share of orders due to double counting can vary widely depending on the specific implementation and data sources. Without detailed information about the current setup, it's difficult to provide an exact percentage. However, a common range for double counting in e-commerce and marketing analytics is between 1% to 5%.\n\n",
+          "ok": false
+        },
+        {
+          "q": "What is the client's name and where are they based?",
+          "answer": "The client's name is [Client Name] and they are based in [Client Location]. \n\nIf you need the specific details, please provide the client's name and location from the context or previous information. If not specified, the details are not available.",
+          "ok": false
+        }
+      ]
+    },
+    {
+      "strategy": "elephant_goldfish_b4",
+      "distiller": "ollama",
+      "notes": [
+        "- New client: Tarn Valley Cycles, an online bike shop in Kendal.\n- Reporting day: Friday.\n- Tasks: Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimizing Google Ads and Shopping campaigns.\n- Task owner: [Owner's Name].\n- GA4 property ID: G-7Q2K9XW4.\n- Deadline: [Deadline Date].",
+        "- New client: Tarn Valley Cycles, an online bike shop in Kendal.\n- Reporting day: Friday.\n- Tasks: Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimizing Google Ads and Shopping campaigns.\n- Task owner: [Owner's Name].\n- GA4 property ID: G-7Q2K9XW4.\n- Main contact: Priya Shah, head of ecommerce.\n- Agreed budget for tracking rebuild: £2,400, fixed fee.\n- Deadline: [Deadline Date].",
+        "- Tarn Valley Cycles, an online bike shop in Kendal, has a deadline of 12 December for the tasks.\n- Tasks include Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimizing Google Ads and Shopping campaigns.\n- Task owner is [Owner's Name].\n- GA4 property ID is G-7Q2K9XW4.\n- Agreed budget for tracking rebuild is £2,400, fixed fee.\n- They use Cookiebot as their consent platform.\n- Reporting day is Friday.",
+        "- Tarn Valley Cycles, an online bike shop in Kendal, has a deadline of 12 December for the tasks.\n- Tasks include Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimizing Google Ads and Shopping campaigns.\n- Task owner is [Owner's Name].\n- GA4 property ID is G-7Q2K9XW4.\n- Agreed budget for tracking rebuild is £2,400, fixed fee.\n- They use Cookiebot as their consent platform.\n- Reporting day is Friday.\n- Purchases are double counting in GA4: roughly 30% of orders appear twice.",
+        "- Tarn Valley Cycles, an online bike shop in Kendal, has a deadline of 12 December for the tasks.\n- Tasks include Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimizing Google Ads and Shopping campaigns.\n- Task owner is [Owner's Name].\n- GA4 property ID is G-7Q2K9XW4.\n- Agreed budget for tracking rebuild is £2,400, fixed fee.\n- They use Cookiebot as their consent platform.\n- Reporting day is Friday.\n- Purchases are double counting in GA4: roughly 30% of orders appear twice.\n- Initial plan for day one includes:\n  - Initial assessment of Google Tag Manager setup.\n  - Review of GA4 DebugView for potential double-counting issues.\n  - Verification of Cookiebot configuration.\n  - Meeting with [Owner's Name] to discuss findings and next steps.",
+        "- Initial assessment of Google Tag Manager setup and review of GA4 DebugView for potential double-counting issues on the thank-you page and within the Shopify app.\n- Verify correct parameters and tag firing rules.\n- Confirm tag configuration to send data to GA4 property ID G-7Q2K9XW4.\n- Double-counting issue: roughly 30% of orders appear twice.\n- Reporting day is Friday.",
+        "- Initial assessment of Google Tag Manager setup and review of GA4 DebugView for potential double-counting issues on the thank-you page and within the Shopify app.\n- Verify correct parameters and tag firing rules.\n- Confirm tag configuration to send data to GA4 property ID G-7Q2K9XW4.\n- Double-counting issue: roughly 30% of orders appear twice.\n- Reporting day is Friday.\n- Use GA4 DebugView to review event triggers and parameters for `purchase` events.\n- Apply event filters in GA4 to isolate and count `purchase` events.\n- Check the Search Terms report in Google Ads for patterns or keywords causing double-counting.\n- Review Cookiebot logs to ensure correct tracking of consent.\n- Verify Cookiebot consent banner visibility and functionality.\n- Confirm GA4 tags fire only after valid consent.\n- Validate consent status in GA4 using GA4 DebugView.",
+        "- Initial assessment of Google Tag Manager setup and review of GA4 DebugView for potential double-counting issues on the thank-you page and within the Shopify app.\n- Verify correct parameters and tag firing rules.\n- Confirm tag configuration to send data to GA4 property ID G-7Q2K9XW4.\n- Double-counting issue: roughly 30% of orders appear twice.\n- Reporting day is Friday.\n- Use GA4 DebugView to review event triggers and parameters for `purchase` events.\n- Apply event filters in GA4 to isolate and count `purchase` events.\n- Check the Search Terms report in Google Ads for patterns or keywords causing double-counting.\n- Review Cookiebot logs to ensure correct tracking of consent.\n- Verify Cookiebot consent banner visibility and functionality.\n- Confirm GA4 tags fire only after valid consent.\n- Validate consent status in GA4 using GA4 DebugView.\n- Draft message to developer for read access to Google Tag Manager: \"Subject: Request for Read Access to Google Tag Manager\\n\\nDear [Developer's Name],\\n\\nWe are currently conducting an audit of your website's Tag Manager setup to address a double-counting issue in Google Analytics 4 (GA4). To ensure a thorough review, we need read access to your Google Tag Manager container.\\n\\nCould you please grant us read-only access to the container? This will allow us to inspect the tags, triggers, and variables to identify and resolve the issue.\\n",
+        "- Verify correct parameters and tag firing rules for the app's purchase tag.\n- Potential issues of removing the tag include data loss, double-counting, consent issues, tag conflicts, and the need for manual tracking.\n- Request read access to Google Tag Manager for review.\n- Double-counting issue: roughly 30% of orders appear twice.\n- Reporting day is Friday.\n- Use GA4 DebugView to review event triggers and parameters for `purchase` events.\n- Apply event filters in GA4 to isolate and count `purchase` events.\n- Check the Search Terms report in Google Ads for patterns or keywords causing double-counting.\n- Review Cookiebot logs to ensure correct tracking of consent.\n- Verify Cookiebot consent banner visibility and functionality.\n- Confirm GA4 tags fire only after valid consent.\n- Validate consent status in GA4 using GA4 DebugView.\n- Draft message to developer for read access to Google Tag Manager: \"Hey [Developer's Name], we need read access to your Google Tag Manager to check the setup and GA4 DebugView for potential double-counting issues on the thank-you page. We're seeing about 30% of orders appearing twice, and we need to verify the tag configuration to send data to GA4 property ID G-7Q2K9XW4. Can you grant us read access? Thanks! Best, [Your Name]\"",
+        "- Monitor GA4 reports for revenue drops and use date range comparisons.\n- Cross-check with Shopify admin panel.\n- Apply event filters in GA4, check Search Terms report for patterns, and ensure correct consent tracking.\n- Verify tag configuration and reapply event filters.\n- Potential issues include double-counting and consent conflicts.\n- Request read access to Google Tag Manager for review.\n- Use GA4 DebugView to review `purchase` events.\n- Check Cookiebot logs for consent tracking.",
+        "- Monitor GA4 reports for revenue drops and use date range comparisons.\n- Cross-check with Shopify admin panel.\n- Apply event filters in GA4, check Search Terms report for patterns, and ensure correct consent tracking.\n- Verify tag configuration and reapply event filters.\n- Potential issues include double-counting and consent conflicts.\n- Request read access to Google Tag Manager for review.\n- Use GA4 DebugView to review `purchase` events.\n- Check Cookiebot logs for consent tracking.\n- Use Sessions, Conversion Rate, and Bounce Rate as key metrics in the weekly report.",
+        "- Monitor GA4 reports for revenue drops and use date range comparisons.\n- Cross-check with Shopify admin panel.\n- Apply event filters in GA4, check Search Terms report for patterns, and ensure correct consent tracking.\n- Verify tag configuration and reapply event filters.\n- Potential issues include double-counting and consent conflicts.\n- Request read access to Google Tag Manager for review.\n- Use GA4 DebugView to review `purchase` events.\n- Check Cookiebot logs for consent tracking.\n- Use Sessions, Conversion Rate, and Bounce Rate as key metrics in the weekly report.\n- Present ROAS per channel rather than blended for clearer insights.\n- Include a section on data gaps and mitigation in the weekly report:\n  - GA4 Revenue Data: Revenue drop in [specific date range] compared to the previous period, possibly due to [potential reasons].\n  - Shopify Admin Panel: Did not reflect the same revenue drop, indicating a possible data discrepancy.\n  - Event Filters: Not applied correctly, leading to potential double-counting or missing data.\n  - Consent Tracking: Inconsistencies in consent.",
+        "- Monitor GA4 reports for revenue drops and use date range comparisons.\n- Cross-check with Shopify admin panel.\n- Apply event filters in GA4, check Search Terms report for patterns, and ensure correct consent tracking.\n- Verify tag configuration and reapply event filters.\n- Potential issues include double-counting and consent conflicts.\n- Request read access to Google Tag Manager for review.\n- Use GA4 DebugView to review `purchase` events.\n- Check Cookiebot logs for consent tracking.\n- Use Sessions, Conversion Rate, and Bounce Rate as key metrics in the weekly report.\n- Present ROAS per channel rather than blended for clearer insights.\n- Include a section on data gaps and mitigation in the weekly report:\n  - GA4 Revenue Data: Revenue drop in [specific date range] compared to the previous period, possibly due to [potential reasons].\n  - Shopify Admin Panel: Did not reflect the same revenue drop, indicating a possible data discrepancy.\n  - Event Filters: Not applied correctly, leading to potential double-counting or missing data.\n  - Consent Tracking: Inconsistencies in consent.\n  - Review returns process and ensure proper refund event tracking.",
+        "- Monitor GA4 reports for revenue drops and use date range comparisons.\n- Cross-check with Shopify admin panel.\n- Apply event filters in GA4, check Search Terms report for patterns, and ensure correct consent tracking.\n- Verify tag configuration and reapply event filters.\n- Potential issues include double-counting and consent conflicts.\n- Request read access to Google Tag Manager for review.\n- Use GA4 DebugView to review `purchase` and `refund` events.\n- Check Cookiebot logs for consent tracking.\n- Use Sessions, Conversion Rate, and Bounce Rate as key metrics in the weekly report.\n- Present ROAS per channel rather than blended for clearer insights.\n- Include a section on data gaps and mitigation in the weekly report:\n  - GA4 Revenue Data: Revenue drop in [specific date range] compared to the previous period, possibly due to [potential reasons].\n  - Shopify Admin Panel: Did not reflect the same revenue drop, indicating a possible data discrepancy.\n  - Event Filters: Not applied correctly, leading to potential double-counting or missing data.\n  - Consent Tracking: Inconsistencies in consent.\n  - Review returns process and ensure proper refund event tracking.\n  - Server-side tagging could help reduce data discrepancies and improve consent management.",
+        "- **GA4 Revenue Data:** Revenue drop in [specific date range] compared to the previous period, possibly due to [potential reasons such as technical issues or changes in user behavior].\n- **Shopify Admin Panel:** Did not reflect the same revenue drop, indicating a possible data discrepancy.\n- **Event Filters:** Not applied correctly, leading to potential double-counting or missing data.\n- **Consent Tracking:** Inconsistencies in consent.\n- **GA4 DebugView:** Checked for `purchase` and `refund` events.\n- **Search Terms Report:** Analyzed for negative keywords.\n- **Next Steps:** Verify and apply event filters, cross-check with Shopify admin panel, and review consent tracking.",
+        "- **Date Range:** [Specific Date Range]\n- **GA4 Revenue Data:** Revenue drop observed compared to the previous period.\n- **Shopify Admin Panel:** Did not reflect the same revenue drop, indicating a possible data discrepancy.\n- **Event Filters:** Not applied correctly, leading to potential double-counting or missing data.\n- **Consent Tracking:** Inconsistencies in consent.\n- **Tag Configuration:** Verified and re-applied event filters.\n- **GA4 DebugView:** Checked `purchase` and `refund` events.\n- **Cookiebot Logs:** Reviewed for consent tracking.\n- **Key Metrics:** Sessions, Conversion Rate, and Bounce Rate.\n- **ROAS Presentation:** Presented per channel rather than blended for accuracy.",
+        "- **Date Range:** [Specific Date Range]\n- **GA4 Revenue Data:** Revenue drop observed compared to the previous period.\n- **Shopify Admin Panel:** Did not reflect the same revenue drop, indicating a possible data discrepancy.\n- **Event Filters:** Not applied correctly, leading to potential double-counting or missing data.\n- **Consent Tracking:** Inconsistencies in consent.\n- **Tag Configuration:** Verified and re-applied event filters.\n- **GA4 DebugView:** Checked `purchase` and `refund` events.\n- **Cookiebot Logs:** Reviewed for consent tracking.\n- **Key Metrics:** Sessions, Conversion Rate, and Bounce Rate.\n- **ROAS Presentation:** Presented per channel rather than blended for accuracy.\n- **Fixing GA4:**\n  - **Backup:** Backed up current GA4 and Google Tag Manager configurations.\n  - **Event Filters:** Ensured correct application of `purchase` and `refund` event filters.\n  - **Cross-Check:** Compared GA4 revenue with Shopify admin panel.\n  - **GA4 DebugView:** Checked `purchase` and `refund` events.\n  - **Consent Tracking:** Monitored for at least one full reporting period.\n- **Monitoring Period:** Monitored numbers for at least one full reporting period (one week for GA4 revenue, one full reporting period for event filters and consent tracking).",
+        "- **Date Range:** [Specific Date Range]\n- **GA4 Revenue Data:** Observed a revenue drop compared to the previous period.\n- **Shopify Admin Panel:** Did not reflect the same revenue drop, indicating a possible data discrepancy.\n- **Event Filters:** Not applied correctly, leading to potential double-counting or missing data.\n- **Consent Tracking:** Inconsistencies in consent.\n- **Tag Configuration:** Event filters verified and re-applied.\n- **GA4 DebugView:** Checked `purchase` and `refund` events.\n- **Cookiebot Logs:** Reviewed for consent tracking.\n- **Key Metrics:** Sessions, Conversion Rate, and Bounce Rate.\n- **ROAS Presentation:** Presented per channel rather than blended.\n- **Fixing GA4:**\n  - **Backup:** Backed up current GA4 and Google Tag Manager configurations.\n  - **Event Filters:** Ensured correct application of `purchase` and `refund` event filters.\n  - **Cross-Check:** Compared GA4 revenue with Shopify admin panel.\n  - **GA4 DebugView:** Checked `purchase` and `refund` events.\n  - **Consent Tracking:** Monitored for at least one full reporting period.\n- **Monitoring Period:** Monitored numbers for at least one full reporting period (one week for GA4 revenue)."
+      ],
+      "turns": 40,
+      "chat_usd": 0.17311,
+      "distill_usd": 0.0,
+      "total_usd": 0.17311,
+      "prompt_tokens": 74412,
+      "cached_tokens": 52737,
+      "cache_hit_share": 0.709,
+      "last_prompt_tokens": 1943,
+      "median_prefill_ms": 548.3,
+      "distill_calls": 18,
+      "recall": 1,
+      "recall_of": 8,
+      "wall_s": 229.6,
+      "per_turn": [
+        {
+          "turn": 1,
+          "prompt_tokens": 1131,
+          "cached_tokens": 0,
+          "prefill_ms": 59.7
+        },
+        {
+          "turn": 2,
+          "prompt_tokens": 1235,
+          "cached_tokens": 1131,
+          "prefill_ms": 58.1
+        },
+        {
+          "turn": 3,
+          "prompt_tokens": 1302,
+          "cached_tokens": 1235,
+          "prefill_ms": 50.1
+        },
+        {
+          "turn": 4,
+          "prompt_tokens": 1359,
+          "cached_tokens": 1302,
+          "prefill_ms": 55.8
+        },
+        {
+          "turn": 5,
+          "prompt_tokens": 1415,
+          "cached_tokens": 1359,
+          "prefill_ms": 53.4
+        },
+        {
+          "turn": 6,
+          "prompt_tokens": 1393,
+          "cached_tokens": 1114,
+          "prefill_ms": 369.5
+        },
+        {
+          "turn": 7,
+          "prompt_tokens": 1507,
+          "cached_tokens": 1284,
+          "prefill_ms": 299.4
+        },
+        {
+          "turn": 8,
+          "prompt_tokens": 1560,
+          "cached_tokens": 1114,
+          "prefill_ms": 565.8
+        },
+        {
+          "turn": 9,
+          "prompt_tokens": 1666,
+          "cached_tokens": 1419,
+          "prefill_ms": 314.4
+        },
+        {
+          "turn": 10,
+          "prompt_tokens": 1619,
+          "cached_tokens": 1114,
+          "prefill_ms": 564.5
+        },
+        {
+          "turn": 11,
+          "prompt_tokens": 1802,
+          "cached_tokens": 1480,
+          "prefill_ms": 370.3
+        },
+        {
+          "turn": 12,
+          "prompt_tokens": 1773,
+          "cached_tokens": 1114,
+          "prefill_ms": 692.0
+        },
+        {
+          "turn": 13,
+          "prompt_tokens": 1972,
+          "cached_tokens": 1604,
+          "prefill_ms": 449.3
+        },
+        {
+          "turn": 14,
+          "prompt_tokens": 1956,
+          "cached_tokens": 1114,
+          "prefill_ms": 889.9
+        },
+        {
+          "turn": 15,
+          "prompt_tokens": 2175,
+          "cached_tokens": 1727,
+          "prefill_ms": 536.9
+        },
+        {
+          "turn": 16,
+          "prompt_tokens": 1900,
+          "cached_tokens": 1114,
+          "prefill_ms": 772.6
+        },
+        {
+          "turn": 17,
+          "prompt_tokens": 2056,
+          "cached_tokens": 1764,
+          "prefill_ms": 386.0
+        },
+        {
+          "turn": 18,
+          "prompt_tokens": 1864,
+          "cached_tokens": 1114,
+          "prefill_ms": 782.9
+        },
+        {
+          "turn": 19,
+          "prompt_tokens": 2087,
+          "cached_tokens": 1614,
+          "prefill_ms": 518.3
+        },
+        {
+          "turn": 20,
+          "prompt_tokens": 1992,
+          "cached_tokens": 1114,
+          "prefill_ms": 949.9
+        },
+        {
+          "turn": 21,
+          "prompt_tokens": 2089,
+          "cached_tokens": 1658,
+          "prefill_ms": 461.1
+        },
+        {
+          "turn": 22,
+          "prompt_tokens": 1913,
+          "cached_tokens": 1114,
+          "prefill_ms": 854.2
+        },
+        {
+          "turn": 23,
+          "prompt_tokens": 2043,
+          "cached_tokens": 1582,
+          "prefill_ms": 539.9
+        },
+        {
+          "turn": 24,
+          "prompt_tokens": 1734,
+          "cached_tokens": 1114,
+          "prefill_ms": 691.3
+        },
+        {
+          "turn": 25,
+          "prompt_tokens": 1946,
+          "cached_tokens": 1578,
+          "prefill_ms": 395.2
+        },
+        {
+          "turn": 26,
+          "prompt_tokens": 1878,
+          "cached_tokens": 1114,
+          "prefill_ms": 774.0
+        },
+        {
+          "turn": 27,
+          "prompt_tokens": 2075,
+          "cached_tokens": 1693,
+          "prefill_ms": 427.6
+        },
+        {
+          "turn": 28,
+          "prompt_tokens": 2023,
+          "cached_tokens": 1114,
+          "prefill_ms": 965.1
+        },
+        {
+          "turn": 29,
+          "prompt_tokens": 2245,
+          "cached_tokens": 1718,
+          "prefill_ms": 556.4
+        },
+        {
+          "turn": 30,
+          "prompt_tokens": 2041,
+          "cached_tokens": 1114,
+          "prefill_ms": 967.7
+        },
+        {
+          "turn": 31,
+          "prompt_tokens": 2248,
+          "cached_tokens": 1717,
+          "prefill_ms": 545.7
+        },
+        {
+          "turn": 32,
+          "prompt_tokens": 2050,
+          "cached_tokens": 1114,
+          "prefill_ms": 1019.3
+        },
+        {
+          "turn": 33,
+          "prompt_tokens": 2254,
+          "cached_tokens": 1716,
+          "prefill_ms": 589.6
+        },
+        {
+          "turn": 34,
+          "prompt_tokens": 1908,
+          "cached_tokens": 1114,
+          "prefill_ms": 855.1
+        },
+        {
+          "turn": 35,
+          "prompt_tokens": 2084,
+          "cached_tokens": 1704,
+          "prefill_ms": 397.5
+        },
+        {
+          "turn": 36,
+          "prompt_tokens": 1892,
+          "cached_tokens": 1114,
+          "prefill_ms": 810.4
+        },
+        {
+          "turn": 37,
+          "prompt_tokens": 2093,
+          "cached_tokens": 1687,
+          "prefill_ms": 464.3
+        },
+        {
+          "turn": 38,
+          "prompt_tokens": 2048,
+          "cached_tokens": 1114,
+          "prefill_ms": 1022.0
+        },
+        {
+          "turn": 39,
+          "prompt_tokens": 2141,
+          "cached_tokens": 1713,
+          "prefill_ms": 551.0
+        },
+        {
+          "turn": 40,
+          "prompt_tokens": 1943,
+          "cached_tokens": 1114,
+          "prefill_ms": 863.5
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What is the client's GA4 property ID?",
+          "answer": "The client's GA4 property ID was not mentioned in the chat. Therefore, we do not have that information.",
+          "ok": false
+        },
+        {
+          "q": "Who is the main contact at the client?",
+          "answer": "The main contact at the client has not been specified in the current session. Please provide the name of the main contact so we can proceed with the invoice and any further communications.",
+          "ok": false
+        },
+        {
+          "q": "What is the agreed fee for the rebuild?",
+          "answer": "The agreed fee for the GA4 rebuild and related tasks is £[Agreed Fee Amount]. This includes the backup of current configurations, verification and re-application of event filters, cross-checking GA4 revenue with Shopify admin panel, and monitoring for at least one full reporting period.",
+          "ok": false
+        },
+        {
+          "q": "What is the rebuild deadline?",
+          "answer": "The rebuild deadline for GA4 and Google Tag Manager configurations is [specific deadline date], and the monitoring period for GA4 revenue is for at least one full reporting period (one week).",
+          "ok": false
+        },
+        {
+          "q": "Which consent platform does the client use?",
+          "answer": "The client uses Cookiebot for consent tracking.",
+          "ok": true
+        },
+        {
+          "q": "Which Shopify theme is the store on?",
+          "answer": "Which Shopify theme is the store using? This information will help us ensure that any adjustments or configurations are compatible with the current theme.",
+          "ok": false
+        },
+        {
+          "q": "Roughly what share of orders is double counting?",
+          "answer": "Based on the evidence from GA4 DebugView and the cross-check with the Shopify admin panel, it appears that the double counting is not significant. However, to provide a more precise estimate, we would need to analyze the specific data points from GA4 DebugView and compare them with the Shopify admin panel",
+          "ok": false
+        },
+        {
+          "q": "What is the client's name and where are they based?",
+          "answer": "The client's name is not specified in the current session memory. The client's location is also not mentioned. If you could provide the client's name and location, I can proceed accordingly.",
+          "ok": false
+        }
+      ]
+    },
+    {
+      "strategy": "elephant_goldfish_b12",
+      "distiller": "ollama",
+      "notes": [
+        "- Tarn Valley Cycles, an online bike shop in Kendal, has a reporting day on Friday.\n- Tasks include Google Tag Manager clean-up, GA4 audit, server-side tagging setup, and optimizing Google Ads and Shopping campaigns.\n- Task owner: [Owner's Name], Deadline: 12 December.\n- GA4 property ID: G-7Q2K9XW4.\n- Main contact: Priya Shah, head of ecommerce.\n- Agreed budget: £2,400 fixed fee.",
+        "- Tarn Valley Cycles uses Cookiebot as their consent platform and their Shopify store is on the Dawn theme, version 15.\n- The task owner is [Owner's Name] with a deadline of 12 December.\n- We will investigate the double counting issue in GA4, starting with checking event triggers and validation in Google Tag Manager and reviewing GA4 DebugView.\n- Day One Plan: \n  - Initial assessment of Google Tag Manager and GA4 setup.\n  - Check Ecommerce tracking implementation in Google Tag.\n  - Verify event triggers and validation in Google Tag Manager.\n  - Use GA4 DebugView to identify and log any duplicate events.\n  - Ensure Ecommerce tracking tag fires only once per order.\n  - Document findings and prepare a report.",
+        "- Tarn Valley Cycles uses Cookiebot as their consent platform and their Shopify store is on the Dawn theme, version 15.\n- The task owner is [Owner's Name] with a deadline of 12 December.\n- We will investigate the double counting issue in GA4, starting with checking event triggers and validation in Google Tag Manager and reviewing GA4 DebugView.\n- Day One Plan:\n  - Initial assessment of Google Tag Manager and GA4 setup.\n  - Check Ecommerce tracking implementation in Google Tag.\n  - Verify event triggers and validation in Google Tag Manager.\n  - Use GA4 DebugView to identify and log any duplicate events.\n  - Ensure Ecommerce tracking tag fires only once per order.\n  - Document findings and prepare a report.\n- Monitor the thank-you page and Shopify app for duplicate `purchase` events using GA4 DebugView.\n- Ensure Cookiebot is correctly integrated and functioning on the website.\n- Verify that the GA4 tag and other necessary tags are firing only after consent is given.\n- Use GA4 DebugView to monitor event tracking and ensure it is only firing when consent is granted.\n- The Meta Pixel setup will be addressed later as part of a broader digital marketing audit.",
+        "- Tarn Valley Cycles uses Cookiebot and the Dawn theme, version 15.\n- The task owner is [Owner's Name] with a deadline of 12 December.\n- Investigating double counting in GA4 by reviewing Ecommerce tracking in Google Tag Manager and using GA4 DebugView.\n- Ensuring the Ecommerce tracking tag fires only once per order.\n- Monitoring thank-you page and Shopify app for duplicate `purchase` events.\n- Ensuring Cookiebot is correctly integrated and functioning.\n- Using GA4 DebugView to verify event tracking with consent.\n- Requested read access to Google Tag Manager for initial assessment.\n- Meta Pixel setup will be addressed later.\n- Potential issues with removing app's purchase tag include data loss, duplicate events, and tag conflicts.\n- Monitoring revenue metrics to spot any drops after changes.",
+        "- Tarn Valley Cycles uses Cookiebot and the Dawn theme, version 15.\n- Task owner is [Owner's Name] with a deadline of 12 December.\n- Investigate double counting in GA4 by reviewing Ecommerce tracking in Google Tag Manager and using GA4 DebugView.\n- Ensure the Ecommerce tracking tag fires only once per order.\n- Monitor thank-you page and Shopify app for duplicate `purchase` events.\n- Ensure Cookiebot is correctly integrated and functioning.\n- Use GA4 DebugView to verify event tracking with consent.\n- Meta Pixel setup will be addressed later.\n- Potential issues with removing app's purchase tag include data loss, duplicate events, and tag conflicts.\n- Monitor revenue metrics to spot any drops after changes.\n- Metrics to monitor: Ecommerce Revenue, Event Trigger Validation in Google Tag Manager, GA4 DebugView Findings.\n- ROAS should be blended across all channels.\n- Document data gaps honestly by identifying and listing channels, collecting data, analyzing, documenting findings, and providing context.\n- To-do list for tomorrow: \n  - Initial assessment of Google Tag Manager and GA4 setup.\n  - Check Ecommerce tracking implementation in Google Tag.\n  - Verify event triggers and validation in Google Tag Manager.",
+        "- Reviewed initial Google Tag Manager and GA4 setup.\n- Ensured Ecommerce tracking tag fires only once per order.\n- Checked thank-you page and Shopify app for duplicate `purchase` events; none found.\n- Used GA4 DebugView to monitor event tracking.\n- Verified Cookiebot is correctly integrated.\n- Documented findings and noted next steps for day two.\n- To-do for tomorrow: Initial assessment of Google Tag Manager and GA4 setup, check Ecommerce tracking implementation, verify event triggers and validation.",
+        "- Reviewed initial Google Tag Manager and GA4 setup.\n- Confirmed Ecommerce tracking tag fires only once per order.\n- Checked thank-you page and Shopify app for duplicate `purchase` events; none found.\n- Used GA4 DebugView to monitor event tracking with consent.\n- Ensured Cookiebot is correctly integrated.\n- No duplicate `purchase` events found.\n- Ecommerce tracking tag is firing correctly.\n- Monitored for 3-5 days to ensure stability and accuracy.\n- Next steps: Monitor for 7-10 days, document changes, and ensure ongoing stability."
+      ],
+      "turns": 40,
+      "chat_usd": 0.16789,
+      "distill_usd": 0.0,
+      "total_usd": 0.16789,
+      "prompt_tokens": 92816,
+      "cached_tokens": 74133,
+      "cache_hit_share": 0.799,
+      "last_prompt_tokens": 2894,
+      "median_prefill_ms": 460.8,
+      "distill_calls": 7,
+      "recall": 2,
+      "recall_of": 8,
+      "wall_s": 182.4,
+      "per_turn": [
+        {
+          "turn": 1,
+          "prompt_tokens": 1131,
+          "cached_tokens": 0,
+          "prefill_ms": 51.5
+        },
+        {
+          "turn": 2,
+          "prompt_tokens": 1235,
+          "cached_tokens": 1131,
+          "prefill_ms": 57.2
+        },
+        {
+          "turn": 3,
+          "prompt_tokens": 1302,
+          "cached_tokens": 1235,
+          "prefill_ms": 54.2
+        },
+        {
+          "turn": 4,
+          "prompt_tokens": 1359,
+          "cached_tokens": 1302,
+          "prefill_ms": 60.6
+        },
+        {
+          "turn": 5,
+          "prompt_tokens": 1415,
+          "cached_tokens": 1359,
+          "prefill_ms": 54.4
+        },
+        {
+          "turn": 6,
+          "prompt_tokens": 1471,
+          "cached_tokens": 1415,
+          "prefill_ms": 54.4
+        },
+        {
+          "turn": 7,
+          "prompt_tokens": 1543,
+          "cached_tokens": 1471,
+          "prefill_ms": 56.0
+        },
+        {
+          "turn": 8,
+          "prompt_tokens": 1636,
+          "cached_tokens": 1543,
+          "prefill_ms": 61.9
+        },
+        {
+          "turn": 9,
+          "prompt_tokens": 1734,
+          "cached_tokens": 1636,
+          "prefill_ms": 54.5
+        },
+        {
+          "turn": 10,
+          "prompt_tokens": 1848,
+          "cached_tokens": 1734,
+          "prefill_ms": 53.2
+        },
+        {
+          "turn": 11,
+          "prompt_tokens": 1827,
+          "cached_tokens": 1114,
+          "prefill_ms": 831.1
+        },
+        {
+          "turn": 12,
+          "prompt_tokens": 2041,
+          "cached_tokens": 1698,
+          "prefill_ms": 458.2
+        },
+        {
+          "turn": 13,
+          "prompt_tokens": 2247,
+          "cached_tokens": 1903,
+          "prefill_ms": 452.4
+        },
+        {
+          "turn": 14,
+          "prompt_tokens": 2434,
+          "cached_tokens": 2110,
+          "prefill_ms": 470.2
+        },
+        {
+          "turn": 15,
+          "prompt_tokens": 2647,
+          "cached_tokens": 2303,
+          "prefill_ms": 430.4
+        },
+        {
+          "turn": 16,
+          "prompt_tokens": 2274,
+          "cached_tokens": 1114,
+          "prefill_ms": 1274.1
+        },
+        {
+          "turn": 17,
+          "prompt_tokens": 2438,
+          "cached_tokens": 2053,
+          "prefill_ms": 459.9
+        },
+        {
+          "turn": 18,
+          "prompt_tokens": 2570,
+          "cached_tokens": 2230,
+          "prefill_ms": 383.3
+        },
+        {
+          "turn": 19,
+          "prompt_tokens": 2774,
+          "cached_tokens": 2353,
+          "prefill_ms": 493.8
+        },
+        {
+          "turn": 20,
+          "prompt_tokens": 2978,
+          "cached_tokens": 2558,
+          "prefill_ms": 457.4
+        },
+        {
+          "turn": 21,
+          "prompt_tokens": 2250,
+          "cached_tokens": 1114,
+          "prefill_ms": 1236.0
+        },
+        {
+          "turn": 22,
+          "prompt_tokens": 2435,
+          "cached_tokens": 1916,
+          "prefill_ms": 630.4
+        },
+        {
+          "turn": 23,
+          "prompt_tokens": 2622,
+          "cached_tokens": 2111,
+          "prefill_ms": 547.9
+        },
+        {
+          "turn": 24,
+          "prompt_tokens": 2817,
+          "cached_tokens": 2297,
+          "prefill_ms": 653.5
+        },
+        {
+          "turn": 25,
+          "prompt_tokens": 3014,
+          "cached_tokens": 2490,
+          "prefill_ms": 641.9
+        },
+        {
+          "turn": 26,
+          "prompt_tokens": 2337,
+          "cached_tokens": 1114,
+          "prefill_ms": 1277.4
+        },
+        {
+          "turn": 27,
+          "prompt_tokens": 2541,
+          "cached_tokens": 2095,
+          "prefill_ms": 516.4
+        },
+        {
+          "turn": 28,
+          "prompt_tokens": 2728,
+          "cached_tokens": 2311,
+          "prefill_ms": 478.2
+        },
+        {
+          "turn": 29,
+          "prompt_tokens": 2948,
+          "cached_tokens": 2496,
+          "prefill_ms": 461.8
+        },
+        {
+          "turn": 30,
+          "prompt_tokens": 3150,
+          "cached_tokens": 2714,
+          "prefill_ms": 507.6
+        },
+        {
+          "turn": 31,
+          "prompt_tokens": 2450,
+          "cached_tokens": 1114,
+          "prefill_ms": 1448.6
+        },
+        {
+          "turn": 32,
+          "prompt_tokens": 2637,
+          "cached_tokens": 2124,
+          "prefill_ms": 641.5
+        },
+        {
+          "turn": 33,
+          "prompt_tokens": 2827,
+          "cached_tokens": 2304,
+          "prefill_ms": 614.2
+        },
+        {
+          "turn": 34,
+          "prompt_tokens": 3028,
+          "cached_tokens": 2493,
+          "prefill_ms": 640.8
+        },
+        {
+          "turn": 35,
+          "prompt_tokens": 3228,
+          "cached_tokens": 2694,
+          "prefill_ms": 623.7
+        },
+        {
+          "turn": 36,
+          "prompt_tokens": 2232,
+          "cached_tokens": 1114,
+          "prefill_ms": 1156.9
+        },
+        {
+          "turn": 37,
+          "prompt_tokens": 2437,
+          "cached_tokens": 2075,
+          "prefill_ms": 378.0
+        },
+        {
+          "turn": 38,
+          "prompt_tokens": 2636,
+          "cached_tokens": 2277,
+          "prefill_ms": 404.0
+        },
+        {
+          "turn": 39,
+          "prompt_tokens": 2701,
+          "cached_tokens": 2474,
+          "prefill_ms": 309.4
+        },
+        {
+          "turn": 40,
+          "prompt_tokens": 2894,
+          "cached_tokens": 2544,
+          "prefill_ms": 416.4
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What is the client's GA4 property ID?",
+          "answer": "The client's GA4 property ID was not mentioned in the session memory. Therefore, we do not have the GA4 property ID to include in the invoice or documentation. \n\nIf you need the GA4 property ID, you will need to obtain it from the client or the relevant team member.",
+          "ok": false
+        },
+        {
+          "q": "Who is the main contact at the client?",
+          "answer": "The main contact at Tarn Valley Cycles for this project was not mentioned in the chat. If you have a record of the main contact's name, please provide it. Otherwise, we may need to use the contact information from the previous engagements or reach out to the client to confirm.",
+          "ok": false
+        },
+        {
+          "q": "What is the agreed fee for the rebuild?",
+          "answer": "The agreed fee for the GA4 rebuild and initial setup is £1,200. This includes the services performed today and the monitoring for the next 7-10 days to ensure ongoing stability and accuracy.",
+          "ok": false
+        },
+        {
+          "q": "What is the rebuild deadline?",
+          "answer": "The rebuild deadline for Tarn Valley Cycles is not specified in the current session memory. If there is no specific deadline mentioned, it is best to clarify with the client to ensure there are no unexpected delays. \n\nWould you like to send a confirmation email to the client to clarify the deadline? If",
+          "ok": false
+        },
+        {
+          "q": "Which consent platform does the client use?",
+          "answer": "The client is using Cookiebot for consent management.",
+          "ok": true
+        },
+        {
+          "q": "Which Shopify theme is the store on?",
+          "answer": "The session memory does not specify which Shopify theme the store is using. To proceed, we need to determine the current Shopify theme. \n\n**Next Steps:**\n1. Log in to the Shopify admin panel.\n2. Navigate to **Online Store** > **Themes**.\n3. Identify the active",
+          "ok": false
+        },
+        {
+          "q": "Roughly what share of orders is double counting?",
+          "answer": "Based on the information provided, no duplicate `purchase` events were found during the initial check. Therefore, the share of orders that are double counting is **0%**. \n\nHowever, to ensure ongoing accuracy, it is recommended to continue monitoring for 7-10 days to confirm stability and",
+          "ok": false
+        },
+        {
+          "q": "What is the client's name and where are they based?",
+          "answer": "The client is Tarn Valley Cycles. Based on the distilled facts from earlier in this chat, there is no specific mention of the client's location. If the location is not already known, it would be good to confirm that information.",
+          "ok": true
+        }
+      ]
+    }
+  ]
+}

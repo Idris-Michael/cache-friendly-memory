@@ -1,0 +1,308 @@
+{
+  "model": "qwen2.5:7b",
+  "system_tokens": 1108,
+  "distiller": null,
+  "results": [
+    {
+      "strategy": "full_history",
+      "turns": 40,
+      "chat_usd": 0.14571,
+      "distill_usd": 0.0,
+      "total_usd": 0.14571,
+      "prompt_tokens": 156494,
+      "cached_tokens": 149075,
+      "cache_hit_share": 0.953,
+      "last_prompt_tokens": 7419,
+      "median_prefill_ms": 62.3,
+      "distill_calls": 0,
+      "recall": 8,
+      "recall_of": 8,
+      "wall_s": 129.5,
+      "per_turn": [
+        {
+          "turn": 1,
+          "prompt_tokens": 1131,
+          "cached_tokens": 0,
+          "prefill_ms": 599.0
+        },
+        {
+          "turn": 2,
+          "prompt_tokens": 1235,
+          "cached_tokens": 1131,
+          "prefill_ms": 49.9
+        },
+        {
+          "turn": 3,
+          "prompt_tokens": 1302,
+          "cached_tokens": 1235,
+          "prefill_ms": 46.7
+        },
+        {
+          "turn": 4,
+          "prompt_tokens": 1359,
+          "cached_tokens": 1302,
+          "prefill_ms": 53.1
+        },
+        {
+          "turn": 5,
+          "prompt_tokens": 1415,
+          "cached_tokens": 1359,
+          "prefill_ms": 48.7
+        },
+        {
+          "turn": 6,
+          "prompt_tokens": 1471,
+          "cached_tokens": 1415,
+          "prefill_ms": 49.5
+        },
+        {
+          "turn": 7,
+          "prompt_tokens": 1543,
+          "cached_tokens": 1471,
+          "prefill_ms": 49.8
+        },
+        {
+          "turn": 8,
+          "prompt_tokens": 1636,
+          "cached_tokens": 1543,
+          "prefill_ms": 58.8
+        },
+        {
+          "turn": 9,
+          "prompt_tokens": 1734,
+          "cached_tokens": 1636,
+          "prefill_ms": 49.9
+        },
+        {
+          "turn": 10,
+          "prompt_tokens": 1848,
+          "cached_tokens": 1734,
+          "prefill_ms": 54.3
+        },
+        {
+          "turn": 11,
+          "prompt_tokens": 2056,
+          "cached_tokens": 1848,
+          "prefill_ms": 52.2
+        },
+        {
+          "turn": 12,
+          "prompt_tokens": 2274,
+          "cached_tokens": 2056,
+          "prefill_ms": 60.0
+        },
+        {
+          "turn": 13,
+          "prompt_tokens": 2485,
+          "cached_tokens": 2274,
+          "prefill_ms": 63.2
+        },
+        {
+          "turn": 14,
+          "prompt_tokens": 2685,
+          "cached_tokens": 2485,
+          "prefill_ms": 59.3
+        },
+        {
+          "turn": 15,
+          "prompt_tokens": 2906,
+          "cached_tokens": 2685,
+          "prefill_ms": 65.7
+        },
+        {
+          "turn": 16,
+          "prompt_tokens": 3122,
+          "cached_tokens": 2906,
+          "prefill_ms": 62.5
+        },
+        {
+          "turn": 17,
+          "prompt_tokens": 3246,
+          "cached_tokens": 3122,
+          "prefill_ms": 60.1
+        },
+        {
+          "turn": 18,
+          "prompt_tokens": 3312,
+          "cached_tokens": 3246,
+          "prefill_ms": 61.3
+        },
+        {
+          "turn": 19,
+          "prompt_tokens": 3521,
+          "cached_tokens": 3312,
+          "prefill_ms": 61.4
+        },
+        {
+          "turn": 20,
+          "prompt_tokens": 3726,
+          "cached_tokens": 3521,
+          "prefill_ms": 62.2
+        },
+        {
+          "turn": 21,
+          "prompt_tokens": 3793,
+          "cached_tokens": 3726,
+          "prefill_ms": 68.5
+        },
+        {
+          "turn": 22,
+          "prompt_tokens": 3991,
+          "cached_tokens": 3793,
+          "prefill_ms": 60.2
+        },
+        {
+          "turn": 23,
+          "prompt_tokens": 4140,
+          "cached_tokens": 3991,
+          "prefill_ms": 62.7
+        },
+        {
+          "turn": 24,
+          "prompt_tokens": 4325,
+          "cached_tokens": 4140,
+          "prefill_ms": 58.9
+        },
+        {
+          "turn": 25,
+          "prompt_tokens": 4527,
+          "cached_tokens": 4325,
+          "prefill_ms": 70.3
+        },
+        {
+          "turn": 26,
+          "prompt_tokens": 4730,
+          "cached_tokens": 4527,
+          "prefill_ms": 64.7
+        },
+        {
+          "turn": 27,
+          "prompt_tokens": 4921,
+          "cached_tokens": 4730,
+          "prefill_ms": 64.2
+        },
+        {
+          "turn": 28,
+          "prompt_tokens": 5102,
+          "cached_tokens": 4921,
+          "prefill_ms": 59.3
+        },
+        {
+          "turn": 29,
+          "prompt_tokens": 5321,
+          "cached_tokens": 5102,
+          "prefill_ms": 66.4
+        },
+        {
+          "turn": 30,
+          "prompt_tokens": 5531,
+          "cached_tokens": 5321,
+          "prefill_ms": 62.9
+        },
+        {
+          "turn": 31,
+          "prompt_tokens": 5727,
+          "cached_tokens": 5531,
+          "prefill_ms": 46.4
+        },
+        {
+          "turn": 32,
+          "prompt_tokens": 5923,
+          "cached_tokens": 5727,
+          "prefill_ms": 67.4
+        },
+        {
+          "turn": 33,
+          "prompt_tokens": 6127,
+          "cached_tokens": 5923,
+          "prefill_ms": 64.7
+        },
+        {
+          "turn": 34,
+          "prompt_tokens": 6335,
+          "cached_tokens": 6127,
+          "prefill_ms": 65.7
+        },
+        {
+          "turn": 35,
+          "prompt_tokens": 6538,
+          "cached_tokens": 6335,
+          "prefill_ms": 63.9
+        },
+        {
+          "turn": 36,
+          "prompt_tokens": 6732,
+          "cached_tokens": 6538,
+          "prefill_ms": 70.7
+        },
+        {
+          "turn": 37,
+          "prompt_tokens": 6929,
+          "cached_tokens": 6732,
+          "prefill_ms": 70.3
+        },
+        {
+          "turn": 38,
+          "prompt_tokens": 7121,
+          "cached_tokens": 6929,
+          "prefill_ms": 70.9
+        },
+        {
+          "turn": 39,
+          "prompt_tokens": 7255,
+          "cached_tokens": 7121,
+          "prefill_ms": 68.4
+        },
+        {
+          "turn": 40,
+          "prompt_tokens": 7419,
+          "cached_tokens": 7255,
+          "prefill_ms": 66.5
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What is the client's GA4 property ID?",
+          "answer": "The client's GA4 property ID is G-7Q2K9XW4.",
+          "ok": true
+        },
+        {
+          "q": "Who is the main contact at the client?",
+          "answer": "The main contact at Tarn Valley Cycles is Priya Shah, head of ecommerce.",
+          "ok": true
+        },
+        {
+          "q": "What is the agreed fee for the rebuild?",
+          "answer": "The agreed fee for the rebuild is £2,400, fixed fee.",
+          "ok": true
+        },
+        {
+          "q": "What is the rebuild deadline?",
+          "answer": "The rebuild deadline for Tarn Valley Cycles is 12 December.",
+          "ok": true
+        },
+        {
+          "q": "Which consent platform does the client use?",
+          "answer": "The client, Tarn Valley Cycles, uses Cookiebot as their consent platform.",
+          "ok": true
+        },
+        {
+          "q": "Which Shopify theme is the store on?",
+          "answer": "The Shopify store for Tarn Valley Cycles is on the Dawn theme, version 15.",
+          "ok": true
+        },
+        {
+          "q": "Roughly what share of orders is double counting?",
+          "answer": "Based on the information provided, roughly 30% of orders are double counting. This means that for every 100 orders, about 30 orders are being recorded twice.",
+          "ok": true
+        },
+        {
+          "q": "What is the client's name and where are they based?",
+          "answer": "The client's name is Tarn Valley Cycles, and they are based in Kendal.",
+          "ok": true
+        }
+      ]
+    }
+  ],
+  "note": "full_history from the first run (2026-11-27); it makes no distillation calls, so the distiller setting does not apply"
+}

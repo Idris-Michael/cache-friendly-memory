@@ -1,0 +1,14 @@
+[
+ {
+  "cmd": "python bench/report.py   # 40-turn chat on local Qwen, 8 facts quizzed after turn 40",
+  "out": "| strategy | distiller | cost (Sonnet prices) | cached | last prompt | median prefill | distills | recall |\n|---|---|---|---|---|---|---|---|\n| full_history | - | $0.146 | 95% | 7,419 tok | 62 ms | 0 | 8/8 |\n| rolling_summary | Claude Haiku | $0.297 | 64% | 2,042 tok | 866 ms | 37 | 7/8 |\n| elephant_goldfish_b4 | Claude Haiku | $0.225 | 69% | 1,997 tok | 636 ms | 18 | 7/8 |\n| elephant_goldfish_b12 | Claude Haiku | $0.195 | 79% | 3,059 tok | 664 ms | 7 | 8/8 |\n| rolling_summary | Qwen 2.5 7B (local) | $0.168 | 69% | 1,928 tok | 672 ms | 37 | 0/8 |\n| elephant_goldfish_b4 | Qwen 2.5 7B (local) | $0.173 | 71% | 1,943 tok | 548 ms | 18 | 1/8 |\n| elephant_goldfish_b12 | Qwen 2.5 7B (local) | $0.168 | 80% | 2,894 tok | 461 ms | 7 | 2/8 |",
+  "lineMs": 300,
+  "pause": 5000
+ },
+ {
+  "cmd": "python bench/sweep.py    # cost only, 10 to 640 turns",
+  "out": "| turns | full_history | rolling_summary | elephant_goldfish_b4 | elephant_goldfish_b12 | cheapest |\n|---|---|---|---|---|---|\n| 10 | $0.04 | $0.06 | $0.05 | $0.04 | full_history |\n| 20 | $0.07 | $0.13 | $0.11 | $0.09 | full_history |\n| 40 | $0.16 | $0.27 | $0.22 | $0.20 | full_history |\n| 80 | $0.40 | $0.55 | $0.45 | $0.41 | full_history |\n| 160 | $1.13 | $1.12 | $0.92 | $0.84 | elephant_goldfish_b12 |\n| 320 | $3.55 | $2.25 | $1.84 | $1.70 | elephant_goldfish_b12 |\n| 640 | $12.26 | $4.51 | $3.69 | $3.42 | elephant_goldfish_b12 |",
+  "lineMs": 260,
+  "pause": 5500
+ }
+]
